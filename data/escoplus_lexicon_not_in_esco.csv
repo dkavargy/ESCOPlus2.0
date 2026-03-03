@@ -1,0 +1,2917 @@
+raw_term,source,raw_term_norm,exists_in_esco
+HTML/CSS,StackOverflow,htmlcss,False
+Bash/Shell,StackOverflow,bashshell,False
+Go,StackOverflow,go,False
+Rust,StackOverflow,rust,False
+Kotlin,StackOverflow,kotlin,False
+Dart,StackOverflow,dart,False
+VBA,StackOverflow,vba,False
+GDScript,StackOverflow,gdscript,False
+Elixir,StackOverflow,elixir,False
+Delphi,StackOverflow,delphi,False
+MicroPython,StackOverflow,micropython,False
+Zig,StackOverflow,zig,False
+F#,StackOverflow,f,False
+Gleam,StackOverflow,gleam,False
+Mojo,StackOverflow,mojo,False
+SQLite,StackOverflow,sqlite,False
+Microsoft SQL Server,StackOverflow,microsoft sql server,False
+Redis,StackOverflow,redis,False
+MongoDB,StackOverflow,mongodb,False
+MariaDB,StackOverflow,mariadb,False
+Elasticsearch,StackOverflow,elasticsearch,False
+Oracle,StackOverflow,oracle,False
+Dynamodb,StackOverflow,dynamodb,False
+BigQuery,StackOverflow,bigquery,False
+Supabase,StackOverflow,supabase,False
+Cloud Firestore,StackOverflow,cloud firestore,False
+H2,StackOverflow,h2,False
+Firebase Realtime Database,StackOverflow,firebase realtime database,False
+Cosmos DB,StackOverflow,cosmos db,False
+Snowflake,StackOverflow,snowflake,False
+InfluxDB,StackOverflow,influxdb,False
+Databricks SQL,StackOverflow,databricks sql,False
+DuckDB,StackOverflow,duckdb,False
+Cassandra,StackOverflow,cassandra,False
+Neo4J,StackOverflow,neo4j,False
+Valkey,StackOverflow,valkey,False
+Clickhouse,StackOverflow,clickhouse,False
+Amazon Redshift,StackOverflow,amazon redshift,False
+Cockroachdb,StackOverflow,cockroachdb,False
+Pocketbase,StackOverflow,pocketbase,False
+Datomic,StackOverflow,datomic,False
+Docker,StackOverflow,docker,False
+npm,StackOverflow,npm,False
+Amazon Web Services (AWS),StackOverflow,amazon web services aws,False
+Pip,StackOverflow,pip,False
+Kubernetes,StackOverflow,kubernetes,False
+Microsoft Azure,StackOverflow,microsoft azure,False
+Homebrew,StackOverflow,homebrew,False
+Vite,StackOverflow,vite,False
+Google Cloud,StackOverflow,google cloud,False
+Make,StackOverflow,make,False
+Yarn,StackOverflow,yarn,False
+Cloudflare,StackOverflow,cloudflare,False
+NuGet,StackOverflow,nuget,False
+APT,StackOverflow,apt,False
+Webpack,StackOverflow,webpack,False
+Terraform,StackOverflow,terraform,False
+Maven (build tool),StackOverflow,maven build tool,False
+Cargo,StackOverflow,cargo,False
+Gradle,StackOverflow,gradle,False
+pnpm,StackOverflow,pnpm,False
+Firebase,StackOverflow,firebase,False
+Prometheus,StackOverflow,prometheus,False
+Podman,StackOverflow,podman,False
+Chocolatey,StackOverflow,chocolatey,False
+Composer,StackOverflow,composer,False
+MSBuild,StackOverflow,msbuild,False
+Digital Ocean,StackOverflow,digital ocean,False
+Vercel,StackOverflow,vercel,False
+Poetry,StackOverflow,poetry,False
+Datadog,StackOverflow,datadog,False
+Pacman,StackOverflow,pacman,False
+Netlify,StackOverflow,netlify,False
+Bun,StackOverflow,bun,False
+Heroku,StackOverflow,heroku,False
+Ninja,StackOverflow,ninja,False
+Splunk,StackOverflow,splunk,False
+New Relic,StackOverflow,new relic,False
+Railway,StackOverflow,railway,False
+Visual Studio Code,StackOverflow,visual studio code,False
+Visual Studio,StackOverflow,visual studio,False
+Notepad++,StackOverflow,notepad,False
+IntelliJ IDEA,StackOverflow,intellij idea,False
+Vim,StackOverflow,vim,False
+Cursor,StackOverflow,cursor,False
+PyCharm,StackOverflow,pycharm,False
+Android Studio,StackOverflow,android studio,False
+Jupyter Nb/JupyterLab,StackOverflow,jupyter nbjupyterlab,False
+Neovim,StackOverflow,neovim,False
+Nano,StackOverflow,nano,False
+Sublime Text,StackOverflow,sublime text,False
+Claude Code,StackOverflow,claude code,False
+WebStorm,StackOverflow,webstorm,False
+Zed,StackOverflow,zed,False
+Rider,StackOverflow,rider,False
+VSCodium,StackOverflow,vscodium,False
+PhpStorm,StackOverflow,phpstorm,False
+Windsurf,StackOverflow,windsurf,False
+RustRover,StackOverflow,rustrover,False
+Lovable.dev,StackOverflow,lovabledev,False
+Bolt,StackOverflow,bolt,False
+Cline and/or Roo,StackOverflow,cline andor roo,False
+Aider,StackOverflow,aider,False
+Trae,StackOverflow,trae,False
+MSBuild,Lightcast,msbuild,False
+Digital Ocean,Lightcast,digital ocean,False
+Vercel,Lightcast,vercel,False
+Poetry,Lightcast,poetry,False
+Datadog,Lightcast,datadog,False
+Pacman,Lightcast,pacman,False
+Netlify,Lightcast,netlify,False
+Bun,Lightcast,bun,False
+Supabase,Lightcast,supabase,False
+Heroku,Lightcast,heroku,False
+Ninja,Lightcast,ninja,False
+Splunk,Lightcast,splunk,False
+New Relic,Lightcast,new relic,False
+Railway,Lightcast,railway,False
+IBM Cloud,Lightcast,ibm cloud,False
+Yandex Cloud,Lightcast,yandex cloud,False
+Sprint Retrospectives,Lightcast,sprint retrospectives,False
+Test-Driven Development (TDD),Lightcast,testdriven development tdd,False
+Timeboxing,Lightcast,timeboxing,False
+Tuleap,Lightcast,tuleap,False
+Unified Process,Lightcast,unified process,False
+XPlanner-Plus,Lightcast,xplannerplus,False
+.NET Remoting,Lightcast,net remoting,False
+Action Filter,Lightcast,action filter,False
+AdonisJS,Lightcast,adonisjs,False
+Amazon API Gateway,Lightcast,amazon api gateway,False
+Amazon Flexible Payments Services,Lightcast,amazon flexible payments services,False
+Amazon MWS,Lightcast,amazon mws,False
+Amazon Product Advertising API,Lightcast,amazon product advertising api,False
+Amazon Translate,Lightcast,amazon translate,False
+Apache Apex,Lightcast,apache apex,False
+API Design,Lightcast,api design,False
+API Gateway,Lightcast,api gateway,False
+API Management,Lightcast,api management,False
+API System Integration,Lightcast,api system integration,False
+API Throttling,Lightcast,api throttling,False
+Apollo Client,Lightcast,apollo client,False
+Apollo Server,Lightcast,apollo server,False
+Application Development System Online (ADSO),Lightcast,application development system online adso,False
+Application Interface Framework,Lightcast,application interface framework,False
+Application Programming Interface (API),Lightcast,application programming interface api,False
+Aspose,Lightcast,aspose,False
+AWS AppSync,Lightcast,aws appsync,False
+Azure API Apps,Lightcast,azure api apps,False
+Azure API Management,Lightcast,azure api management,False
+Box API,Lightcast,box api,False
+Camera API,Lightcast,camera api,False
+Common ISDN Application Programming Interface (CAPI),Lightcast,common isdn application programming interface capi,False
+Content Repository API For Java,Lightcast,content repository api for java,False
+Conversions (API),Lightcast,conversions api,False
+Core API,Lightcast,core api,False
+Core Audio,Lightcast,core audio,False
+Criteria API,Lightcast,criteria api,False
+D-Bus (Application Layer Protocols),Lightcast,dbus application layer protocols,False
+Data Plane Development Kit (DPDK),Lightcast,data plane development kit dpdk,False
+Direct3D,Lightcast,direct3d,False
+Directcompute,Lightcast,directcompute,False
+Document.write,Lightcast,documentwrite,False
+Dropbox API,Lightcast,dropbox api,False
+eBay API,Lightcast,ebay api,False
+Emulator High-Level Language Application Program Interface (EHLLAPI),Lightcast,emulator highlevel language application program interface ehllapi,False
+Epoll,Lightcast,epoll,False
+Experience API (xAPI),Lightcast,experience api xapi,False
+Fabric Application Interface Standards,Lightcast,fabric application interface standards,False
+Facebook API,Lightcast,facebook api,False
+Facebook Graph API,Lightcast,facebook graph api,False
+FastAPI,Lightcast,fastapi,False
+Generic Buffer Management,Lightcast,generic buffer management,False
+Gmail API,Lightcast,gmail api,False
+Gobject,Lightcast,gobject,False
+Google Admin SDK,Lightcast,google admin sdk,False
+Google APIs,Lightcast,google apis,False
+Google Chart API,Lightcast,google chart api,False
+Google Gadgets API,Lightcast,google gadgets api,False
+Graphics APIs,Lightcast,graphics apis,False
+Graphics Device Interface,Lightcast,graphics device interface,False
+GSOAP,Lightcast,gsoap,False
+Gtkmm,Lightcast,gtkmm,False
+Hardware Platform Interface,Lightcast,hardware platform interface,False
+Hasura GraphQL Engine,Lightcast,hasura graphql engine,False
+Hateoas,Lightcast,hateoas,False
+HubSpot API,Lightcast,hubspot api,False
+Image Mastering API,Lightcast,image mastering api,False
+Interface Description Language,Lightcast,interface description language,False
+Isapi Extension,Lightcast,isapi extension,False
+Jakarta Persistence API,Lightcast,jakarta persistence api,False
+Jakarta RESTful Web Services,Lightcast,jakarta restful web services,False
+Jakarta XML Messaging,Lightcast,jakarta xml messaging,False
+Jakarta XML Processing,Lightcast,jakarta xml processing,False
+Java Advanced Imaging,Lightcast,java advanced imaging,False
+Java API For XML Registries,Lightcast,java api for xml registries,False
+Java APIs,Lightcast,java apis,False
+Java APIs For Integrated Networks,Lightcast,java apis for integrated networks,False
+Java Mobile Media API,Lightcast,java mobile media api,False
+Java Remote Method Invocation,Lightcast,java remote method invocation,False
+Java Transaction API,Lightcast,java transaction api,False
+JavaMail,Lightcast,javamail,False
+JSON APIs,Lightcast,json apis,False
+Json.net,Lightcast,jsonnet,False
+Ksoap,Lightcast,ksoap,False
+Ksoap2,Lightcast,ksoap2,False
+Laminas API Tools,Lightcast,laminas api tools,False
+Libvirt,Lightcast,libvirt,False
+LinkedIn API,Lightcast,linkedin api,False
+Linux Kernel API,Lightcast,linux kernel api,False
+Location APIs,Lightcast,location apis,False
+MailChimp API,Lightcast,mailchimp api,False
+Mbeans (Java APIs),Lightcast,mbeans java apis,False
+Messaging Application Programming Interface,Lightcast,messaging application programming interface,False
+Microsoft CryptoAPI,Lightcast,microsoft cryptoapi,False
+Microsoft Graph,Lightcast,microsoft graph,False
+Microsoft Speech API,Lightcast,microsoft speech api,False
+Microsoft UI Automation,Lightcast,microsoft ui automation,False
+Mobile 3D Graphics API,Lightcast,mobile 3d graphics api,False
+Mobile Rich Media Ad Interface Definitions (MRAID),Lightcast,mobile rich media ad interface definitions mraid,False
+Native API,Lightcast,native api,False
+NetBIOS,Lightcast,netbios,False
+Netscape Server Application Programming Interface,Lightcast,netscape server application programming interface,False
+Netstandard,Lightcast,netstandard,False
+Newman,Lightcast,newman,False
+Nexmo,Lightcast,nexmo,False
+NPAPI,Lightcast,npapi,False
+Nusoap,Lightcast,nusoap,False
+Object Linking And Embedding - Database (OLE DB),Lightcast,object linking and embedding  database ole db,False
+Object Windows Library,Lightcast,object windows library,False
+Omnipay,Lightcast,omnipay,False
+oneAPI,Lightcast,oneapi,False
+Open Commerce API (OCAPI),Lightcast,open commerce api ocapi,False
+Open Service Interface Definitions,Lightcast,open service interface definitions,False
+OpenAPI,Lightcast,openapi,False
+OpenAPI Specification,Lightcast,openapi specification,False
+OpenCL,Lightcast,opencl,False
+OpenMAX,Lightcast,openmax,False
+OpenMP,Lightcast,openmp,False
+Oracle JDBC,Lightcast,oracle jdbc,False
+Payment Gateway Integration,Lightcast,payment gateway integration,False
+Performance Application Programming Interface,Lightcast,performance application programming interface,False
+Plivo,Lightcast,plivo,False
+Pluggable Authentication Module (PAM),Lightcast,pluggable authentication module pam,False
+POSIX Threads,Lightcast,posix threads,False
+Postman API Platform,Lightcast,postman api platform,False
+Ptrace,Lightcast,ptrace,False
+Quartz.net,Lightcast,quartznet,False
+Rauth,Lightcast,rauth,False
+ReadyAPI,Lightcast,readyapi,False
+Remote Application Platform,Lightcast,remote application platform,False
+REST API Development,Lightcast,rest api development,False
+RESTEasy (JBoss),Lightcast,resteasy jboss,False
+RESTful API,Lightcast,restful api,False
+Restkit,Lightcast,restkit,False
+Restlet,Lightcast,restlet,False
+Retrofit2,Lightcast,retrofit2,False
+S Interface,Lightcast,s interface,False
+Soapsonar,Lightcast,soapsonar,False
+Social Media APIs,Lightcast,social media apis,False
+Software Adapters,Lightcast,software adapters,False
+Strongloop,Lightcast,strongloop,False
+Swagger UI,Lightcast,swagger ui,False
+Task Parallel Library (.NET Framework),Lightcast,task parallel library net framework,False
+Tastypie,Lightcast,tastypie,False
+Telephony Application Programming Interface,Lightcast,telephony application programming interface,False
+Termcap,Lightcast,termcap,False
+Urllib2,Lightcast,urllib2,False
+Video Acceleration API,Lightcast,video acceleration api,False
+Vulkan Graphics API,Lightcast,vulkan graphics api,False
+Wcf Rest,Lightcast,wcf rest,False
+WCF/Web API,Lightcast,wcfweb api,False
+WebRTC,Lightcast,webrtc,False
+Windows API,Lightcast,windows api,False
+Windows Audio Session API (WASAPI),Lightcast,windows audio session api wasapi,False
+Wiremock,Lightcast,wiremock,False
+WordPress REST API,Lightcast,wordpress rest api,False
+Workflow APIs,Lightcast,workflow apis,False
+YouTube API,Lightcast,youtube api,False
+3D Reconstruction,Lightcast,3d reconstruction,False
+Activity Recognition,Lightcast,activity recognition,False
+AdaBoost (Adaptive Boosting),Lightcast,adaboost adaptive boosting,False
+Adversarial Machine Learning,Lightcast,adversarial machine learning,False
+Aforge,Lightcast,aforge,False
+Agent Orchestration Frameworks,Lightcast,agent orchestration frameworks,False
+AgentGPT,Lightcast,agentgpt,False
+Agentic AI,Lightcast,agentic ai,False
+Agentic Systems,Lightcast,agentic systems,False
+AI Agent Monitoring,Lightcast,ai agent monitoring,False
+AI Agent Observability,Lightcast,ai agent observability,False
+AI Agents,Lightcast,ai agents,False
+AI Algorithms,Lightcast,ai algorithms,False
+AI Alignment,Lightcast,ai alignment,False
+AI Assisted Content Generation,Lightcast,ai assisted content generation,False
+AI Best Practices,Lightcast,ai best practices,False
+AI Bias,Lightcast,ai bias,False
+AI Copywriting,Lightcast,ai copywriting,False
+AI Driven Predictive Scheduling,Lightcast,ai driven predictive scheduling,False
+AI Failure,Lightcast,ai failure,False
+AI Innovation,Lightcast,ai innovation,False
+AI Literacy,Lightcast,ai literacy,False
+AI Personalization,Lightcast,ai personalization,False
+AI Product Strategy,Lightcast,ai product strategy,False
+AI Research,Lightcast,ai research,False
+AI Safety,Lightcast,ai safety,False
+AI Transcription,Lightcast,ai transcription,False
+AI Translation,Lightcast,ai translation,False
+AI-Based Legal Compliance,Lightcast,aibased legal compliance,False
+AI-Generated Code,Lightcast,aigenerated code,False
+AI/ML Inference,Lightcast,aiml inference,False
+AIOps (Artificial Intelligence For IT Operations),Lightcast,aiops artificial intelligence for it operations,False
+Amazon Alexa,Lightcast,amazon alexa,False
+Amazon Forecast,Lightcast,amazon forecast,False
+Amazon Personalize,Lightcast,amazon personalize,False
+Amazon Textract,Lightcast,amazon textract,False
+Amazon Transcribe,Lightcast,amazon transcribe,False
+Amelia (IPSoft),Lightcast,amelia ipsoft,False
+Apache Mahout,Lightcast,apache mahout,False
+Apache MXNet,Lightcast,apache mxnet,False
+Apache SINGA,Lightcast,apache singa,False
+Applied Machine Learning,Lightcast,applied machine learning,False
+Architecture Decision Records,Lightcast,architecture decision records,False
+Artificial General Intelligence,Lightcast,artificial general intelligence,False
+Artificial Intelligence,Lightcast,artificial intelligence,False
+Artificial Intelligence Development,Lightcast,artificial intelligence development,False
+Artificial Intelligence Infrastructure,Lightcast,artificial intelligence infrastructure,False
+Artificial Intelligence Markup Language (AIML),Lightcast,artificial intelligence markup language aiml,False
+Artificial Intelligence Risk,Lightcast,artificial intelligence risk,False
+Artificial Intelligence Strategy,Lightcast,artificial intelligence strategy,False
+Artificial Intelligence Systems,Lightcast,artificial intelligence systems,False
+Association Rule Learning,Lightcast,association rule learning,False
+Attention Mechanisms,Lightcast,attention mechanisms,False
+Autoencoders,Lightcast,autoencoders,False
+AutoGen,Lightcast,autogen,False
+Automated Data Cleaning,Lightcast,automated data cleaning,False
+Automated Machine Learning,Lightcast,automated machine learning,False
+Automation Systems,Lightcast,automation systems,False
+AWS AI Tools,Lightcast,aws ai tools,False
+AWS Bedrock,Lightcast,aws bedrock,False
+AWS SageMaker,Lightcast,aws sagemaker,False
+Azure AI Studio,Lightcast,azure ai studio,False
+Azure Cognitive Services,Lightcast,azure cognitive services,False
+Azure Machine Learning,Lightcast,azure machine learning,False
+Azure OpenAI,Lightcast,azure openai,False
+Backpropagation,Lightcast,backpropagation,False
+Bayesian Belief Networks,Lightcast,bayesian belief networks,False
+Boltzmann Machine,Lightcast,boltzmann machine,False
+Bot Framework,Lightcast,bot framework,False
+Caffe (Framework),Lightcast,caffe framework,False
+CatBoost (Machine Learning Library),Lightcast,catboost machine learning library,False
+Chatbot,Lightcast,chatbot,False
+ChatGPT,Lightcast,chatgpt,False
+ChatGPT Integration,Lightcast,chatgpt integration,False
+Classification And Regression Tree (CART),Lightcast,classification and regression tree cart,False
+Claude AI,Lightcast,claude ai,False
+Cognitive Automation,Lightcast,cognitive automation,False
+Collaborative Filtering,Lightcast,collaborative filtering,False
+Concept Drift Detection,Lightcast,concept drift detection,False
+Convolutional Neural Networks (CNN),Lightcast,convolutional neural networks cnn,False
+CrewAI,Lightcast,crewai,False
+Custom GPTs,Lightcast,custom gpts,False
+DALL-E 3,Lightcast,dalle 3,False
+Data Sovereignty,Lightcast,data sovereignty,False
+Decision-Matrix Method,Lightcast,decisionmatrix method,False
+Deep Reinforcement Learning (DRL),Lightcast,deep reinforcement learning drl,False
+DeepSeek,Lightcast,deepseek,False
+Distributed Machine Learning,Lightcast,distributed machine learning,False
+Domain-Specific Execution Planning,Lightcast,domainspecific execution planning,False
+Edge Intelligence,Lightcast,edge intelligence,False
+Embedded AI,Lightcast,embedded ai,False
+Ensemble Methods,Lightcast,ensemble methods,False
+Ethical AI,Lightcast,ethical ai,False
+Explainable AI (XAI),Lightcast,explainable ai xai,False
+Feature Engineering,Lightcast,feature engineering,False
+Federated Learning,Lightcast,federated learning,False
+Few Shot Learning,Lightcast,few shot learning,False
+Fuzzy Set,Lightcast,fuzzy set,False
+Generative Adversarial Networks,Lightcast,generative adversarial networks,False
+Generative AI Agents,Lightcast,generative ai agents,False
+Generative Artificial Intelligence,Lightcast,generative artificial intelligence,False
+Genetic Algorithm,Lightcast,genetic algorithm,False
+Graph Neural Networks (GNNs),Lightcast,graph neural networks gnns,False
+Hidden Markov Model,Lightcast,hidden markov model,False
+Human AI Interaction,Lightcast,human ai interaction,False
+Hyperparameter Optimization,Lightcast,hyperparameter optimization,False
+Image Captioning,Lightcast,image captioning,False
+Incremental Learning,Lightcast,incremental learning,False
+Intelligent Agent,Lightcast,intelligent agent,False
+Intelligent Automation,Lightcast,intelligent automation,False
+K-Nearest Neighbors Algorithm,Lightcast,knearest neighbors algorithm,False
+Keras (Neural Network Library),Lightcast,keras neural network library,False
+AR System Administration,Lightcast,ar system administration,False
+ARCore,Lightcast,arcore,False
+ARKit,Lightcast,arkit,False
+Augmented Reality (AR) Headsets,Lightcast,augmented reality ar headsets,False
+Avatar,Lightcast,avatar,False
+DAQRI 4D Studio,Lightcast,daqri 4d studio,False
+Enscape (VR Rendering Software),Lightcast,enscape vr rendering software,False
+Extended Reality,Lightcast,extended reality,False
+Google Cardboard,Lightcast,google cardboard,False
+Google VR SDK,Lightcast,google vr sdk,False
+Haptic Technology,Lightcast,haptic technology,False
+Head-Mounted Displays (HMD),Lightcast,headmounted displays hmd,False
+Hololens (VR Technology),Lightcast,hololens vr technology,False
+HTC Vive,Lightcast,htc vive,False
+IMVU,Lightcast,imvu,False
+Interactive 3D,Lightcast,interactive 3d,False
+Iris Gl,Lightcast,iris gl,False
+JanusVR,Lightcast,janusvr,False
+Kinect,Lightcast,kinect,False
+Leap Motion,Lightcast,leap motion,False
+LLaMA (Language Model),Lightcast,llama language model,False
+Magic Leap Platform,Lightcast,magic leap platform,False
+Matterport,Lightcast,matterport,False
+MAVES,Lightcast,maves,False
+Metaio,Lightcast,metaio,False
+Metaverse,Lightcast,metaverse,False
+Mixed Reality,Lightcast,mixed reality,False
+Multivision,Lightcast,multivision,False
+Oculus,Lightcast,oculus,False
+OpenFlight,Lightcast,openflight,False
+OpenNI,Lightcast,openni,False
+Quest3D,Lightcast,quest3d,False
+React VR,Lightcast,react vr,False
+Real-Time Computer Graphics,Lightcast,realtime computer graphics,False
+Realsense,Lightcast,realsense,False
+Samsung Gear VR,Lightcast,samsung gear vr,False
+Sceneform,Lightcast,sceneform,False
+Skybox Security,Lightcast,skybox security,False
+Sony Playstation VR,Lightcast,sony playstation vr,False
+Spatial Computing,Lightcast,spatial computing,False
+StarVR,Lightcast,starvr,False
+SteamVR,Lightcast,steamvr,False
+Virtual Reality Modeling Language,Lightcast,virtual reality modeling language,False
+Virtual Reality Scene Generators,Lightcast,virtual reality scene generators,False
+Virtual Retinal Displays,Lightcast,virtual retinal displays,False
+Vuforia,Lightcast,vuforia,False
+WebVR,Lightcast,webvr,False
+WebXR,Lightcast,webxr,False
+Wikitude,Lightcast,wikitude,False
+ARCserve Backup Solutions,Lightcast,arcserve backup solutions,False
+Asigra Cloud Backup,Lightcast,asigra cloud backup,False
+Automatic System Recovery,Lightcast,automatic system recovery,False
+AWS Backup,Lightcast,aws backup,False
+Backblaze,Lightcast,backblaze,False
+Backup Administration,Lightcast,backup administration,False
+Backup Agent,Lightcast,backup agent,False
+Backup and Recovery Software,Lightcast,backup and recovery software,False
+Backup and Recovery System,Lightcast,backup and recovery system,False
+Backup And Restore,Lightcast,backup and restore,False
+Backup Devices,Lightcast,backup devices,False
+Backup Express,Lightcast,backup express,False
+Backup Management,Lightcast,backup management,False
+Backup Replication,Lightcast,backup replication,False
+Backup Tools (Backup Software),Lightcast,backup tools backup software,False
+BackupPC,Lightcast,backuppc,False
+Bacula,Lightcast,bacula,False
+Carbonite (Online Backup),Lightcast,carbonite online backup,False
+CloneCD,Lightcast,clonecd,False
+Clonezilla,Lightcast,clonezilla,False
+Cloudberry,Lightcast,cloudberry,False
+Cobian Backup,Lightcast,cobian backup,False
+CommVault,Lightcast,commvault,False
+Database Backup,Lightcast,database backup,False
+Database Dump,Lightcast,database dump,False
+Dell Avamar,Lightcast,dell avamar,False
+Dell NetWorker,Lightcast,dell networker,False
+Differential Backup,Lightcast,differential backup,False
+Disk Imaging,Lightcast,disk imaging,False
+Disk Mirroring,Lightcast,disk mirroring,False
+Drive Image (Storage Software),Lightcast,drive image storage software,False
+Druva Software,Lightcast,druva software,False
+DVD Decrypter,Lightcast,dvd decrypter,False
+DVD Shrink,Lightcast,dvd shrink,False
+File Synchronization,Lightcast,file synchronization,False
+FlashCopy,Lightcast,flashcopy,False
+Ghost (Backup Software),Lightcast,ghost backup software,False
+IBM Spectrum Protect,Lightcast,ibm spectrum protect,False
+IDrive,Lightcast,idrive,False
+Incremental Backup,Lightcast,incremental backup,False
+Macrium Reflect,Lightcast,macrium reflect,False
+Micro Focus Data Protector,Lightcast,micro focus data protector,False
+NetVault Backup,Lightcast,netvault backup,False
+OpenDrive,Lightcast,opendrive,False
+Percona Xtrabackup (Software),Lightcast,percona xtrabackup software,False
+RecoverPoint,Lightcast,recoverpoint,False
+Recovery Manager (RMAN),Lightcast,recovery manager rman,False
+Remote Backup Services,Lightcast,remote backup services,False
+Retrospect (Software),Lightcast,retrospect software,False
+Shadow Copy,Lightcast,shadow copy,False
+ShadowProtect,Lightcast,shadowprotect,False
+SQL Backup And Restore,Lightcast,sql backup and restore,False
+Symantec Backup Exec,Lightcast,symantec backup exec,False
+SyncBack,Lightcast,syncback,False
+System Imaging,Lightcast,system imaging,False
+Veritas NetBackup,Lightcast,veritas netbackup,False
+Virtual Backup,Lightcast,virtual backup,False
+Xcopy,Lightcast,xcopy,False
+Zerto,Lightcast,zerto,False
+Amazon Braket,Lightcast,amazon braket,False
+Apache CloudStack,Lightcast,apache cloudstack,False
+Autoscaling,Lightcast,autoscaling,False
+AWS Certified Cloud Practitioner,Lightcast,aws certified cloud practitioner,False
+AWS Cloud Development Kit (CDK),Lightcast,aws cloud development kit cdk,False
+Azure Cloud Services,Lightcast,azure cloud services,False
+Ceph (Software),Lightcast,ceph software,False
+Certificate Of Cloud Security Knowledge,Lightcast,certificate of cloud security knowledge,False
+Cloud Administration,Lightcast,cloud administration,False
+Cloud Application Development,Lightcast,cloud application development,False
+Cloud DevOps,Lightcast,cloud devops,False
+Cloud Engineering,Lightcast,cloud engineering,False
+Cloud Governance,Lightcast,cloud governance,False
+Cloud Infrastructure,Lightcast,cloud infrastructure,False
+Cloud Migration,Lightcast,cloud migration,False
+Cloud Operations,Lightcast,cloud operations,False
+Cloud Strategy,Lightcast,cloud strategy,False
+Cloud-Native Applications,Lightcast,cloudnative applications,False
+Cloud-Native Architecture,Lightcast,cloudnative architecture,False
+Distributed Cloud,Lightcast,distributed cloud,False
+Fog Computing,Lightcast,fog computing,False
+Hybrid Cloud Computing,Lightcast,hybrid cloud computing,False
+OpenStack,Lightcast,openstack,False
+Serverless Computing,Lightcast,serverless computing,False
+Serverless Framework,Lightcast,serverless framework,False
+Virtual Private Cloud,Lightcast,virtual private cloud,False
+Alibaba Cloud,Lightcast,alibaba cloud,False
+Amazon CloudFront,Lightcast,amazon cloudfront,False
+Amazon EC2,Lightcast,amazon ec2,False
+Amazon Elastic Kubernetes Service,Lightcast,amazon elastic kubernetes service,False
+Amazon S3,Lightcast,amazon s3,False
+AWS Lambda,Lightcast,aws lambda,False
+Azure Functions,Lightcast,azure functions,False
+Azure Kubernetes Service,Lightcast,azure kubernetes service,False
+Google Cloud Platform (GCP),Lightcast,google cloud platform gcp,False
+Heroku,Lightcast,heroku,False
+Microsoft Azure,Lightcast,microsoft azure,False
+Multi-Cloud,Lightcast,multicloud,False
+Platform As A Service (PaaS),Lightcast,platform as a service paas,False
+Software As A Service (SaaS),Lightcast,software as a service saas,False
+Infrastructure As A Service (IaaS),Lightcast,infrastructure as a service iaas,False
+Zuora,Lightcast,zuora,False
+AccuRev SCM,Lightcast,accurev scm,False
+Annotation Processing,Lightcast,annotation processing,False
+ANTS Performance Profiler,Lightcast,ants performance profiler,False
+Apple Configurator,Lightcast,apple configurator,False
+Avaya Device Management,Lightcast,avaya device management,False
+AWS OpsWorks,Lightcast,aws opsworks,False
+CA Harvest Software Change Manager,Lightcast,ca harvest software change manager,False
+CFEngines,Lightcast,cfengines,False
+Change Control Process,Lightcast,change control process,False
+Chef Solo,Lightcast,chef solo,False
+Cisco Configuration Professional,Lightcast,cisco configuration professional,False
+CNAME Record,Lightcast,cname record,False
+Config Files,Lightcast,config files,False
+Configserver,Lightcast,configserver,False
+Configuration Item,Lightcast,configuration item,False
+Configuration Management,Lightcast,configuration management,False
+Configuration Management Databases,Lightcast,configuration management databases,False
+Configurators,Lightcast,configurators,False
+Connected Device Configuration,Lightcast,connected device configuration,False
+Connected Limited Device Configuration,Lightcast,connected limited device configuration,False
+Connection String,Lightcast,connection string,False
+Deep Freeze,Lightcast,deep freeze,False
+Desired State Configuration,Lightcast,desired state configuration,False
+DNS Zone,Lightcast,dns zone,False
+Ebextensions,Lightcast,ebextensions,False
+Extensible Configuration Checklist Description Format,Lightcast,extensible configuration checklist description format,False
+Federal Desktop Core Configuration,Lightcast,federal desktop core configuration,False
+Fileset,Lightcast,fileset,False
+Hardware Configuration Management,Lightcast,hardware configuration management,False
+Hocon,Lightcast,hocon,False
+HP Command Line Interface (CLI),Lightcast,hp command line interface cli,False
+Httpd.conf,Lightcast,httpdconf,False
+IBM Software Configuration And Library Management (SCLM),Lightcast,ibm software configuration and library management sclm,False
+IBM TPNS,Lightcast,ibm tpns,False
+Ifconfig,Lightcast,ifconfig,False
+IIS Metabase,Lightcast,iis metabase,False
+Inetd,Lightcast,inetd,False
+INI File,Lightcast,ini file,False
+Installwatch,Lightcast,installwatch,False
+Ipconfig,Lightcast,ipconfig,False
+Jetadmin,Lightcast,jetadmin,False
+Local Management Interface,Lightcast,local management interface,False
+Machine.config,Lightcast,machineconfig,False
+Micro Focus Dimensions CM,Lightcast,micro focus dimensions cm,False
+MSConfig,Lightcast,msconfig,False
+Multitopology Routing Configuration,Lightcast,multitopology routing configuration,False
+Network Configuration And Change Management,Lightcast,network configuration and change management,False
+OpenText UCMDB,Lightcast,opentext ucmdb,False
+Physical Configuration Audit,Lightcast,physical configuration audit,False
+Plastic SCM,Lightcast,plastic scm,False
+Plist,Lightcast,plist,False
+Product Configuration,Lightcast,product configuration,False
+Profile Configuration Files,Lightcast,profile configuration files,False
+Progress Chef (Software),Lightcast,progress chef software,False
+Properties File,Lightcast,properties file,False
+Puppet (Configuration Management Tool),Lightcast,puppet configuration management tool,False
+Red Hat Certified Architect (RHCA),Lightcast,red hat certified architect rhca,False
+SAP Configuration,Lightcast,sap configuration,False
+Server Configuration,Lightcast,server configuration,False
+Software Configuration Management,Lightcast,software configuration management,False
+Surround SCM,Lightcast,surround scm,False
+System Center Configuration Manager,Lightcast,system center configuration manager,False
+System Generation,Lightcast,system generation,False
+WebConfig,Lightcast,webconfig,False
+Windows SteadyState,Lightcast,windows steadystate,False
+Zenworks Patch Management,Lightcast,zenworks patch management,False
+Active Directory Rights Management Services,Lightcast,active directory rights management services,False
+Acunetix,Lightcast,acunetix,False
+Ad-Aware,Lightcast,adaware,False
+Address Space Layout Randomization,Lightcast,address space layout randomization,False
+Advanced Encryption Standard (AES),Lightcast,advanced encryption standard aes,False
+AI Security,Lightcast,ai security,False
+AlienVault,Lightcast,alienvault,False
+Amazon GuardDuty,Lightcast,amazon guardduty,False
+Amazon Inspector,Lightcast,amazon inspector,False
+Amazon Macie,Lightcast,amazon macie,False
+Angr,Lightcast,angr,False
+Anomaly Detection,Lightcast,anomaly detection,False
+Anti-Spam Techniques,Lightcast,antispam techniques,False
+Application Security,Lightcast,application security,False
+Application Security Testing,Lightcast,application security testing,False
+Attack Patterns,Lightcast,attack patterns,False
+Attack Surface Management,Lightcast,attack surface management,False
+Audit Info System (AIS),Lightcast,audit info system ais,False
+AWS CloudHSM,Lightcast,aws cloudhsm,False
+AWS CloudTrail,Lightcast,aws cloudtrail,False
+AWS Key Management Service (KMS),Lightcast,aws key management service kms,False
+Azure Policy,Lightcast,azure policy,False
+Azure Security,Lightcast,azure security,False
+Big Ip,Lightcast,big ip,False
+Bloodhound,Lightcast,bloodhound,False
+Bouncy Castle,Lightcast,bouncy castle,False
+Brakeman,Lightcast,brakeman,False
+Brute Force Attacks,Lightcast,brute force attacks,False
+Buffer Overflow,Lightcast,buffer overflow,False
+Burp Suite,Lightcast,burp suite,False
+Captcha,Lightcast,captcha,False
+Certificate Authority,Lightcast,certificate authority,False
+Certified Ethical Hacker,Lightcast,certified ethical hacker,False
+Certified Information Security Manager,Lightcast,certified information security manager,False
+Certified Information Systems Security Professional,Lightcast,certified information systems security professional,False
+Certified Penetration Testing Engineer (CPTE),Lightcast,certified penetration testing engineer cpte,False
+Charles Proxy,Lightcast,charles proxy,False
+Checkmarx,Lightcast,checkmarx,False
+CIA Triad,Lightcast,cia triad,False
+Clickjacking,Lightcast,clickjacking,False
+Cloud Identity and Access Management (IAM),Lightcast,cloud identity and access management iam,False
+Cloud Penetration Testing,Lightcast,cloud penetration testing,False
+Cloud Security Applications,Lightcast,cloud security applications,False
+Cloudflare,Lightcast,cloudflare,False
+Code Injection,Lightcast,code injection,False
+Code Signing,Lightcast,code signing,False
+Common Vulnerability Scoring System (CVSS),Lightcast,common vulnerability scoring system cvss,False
+Communications Security,Lightcast,communications security,False
+Computer Security,Lightcast,computer security,False
+Computer Security Incident Response,Lightcast,computer security incident response,False
+Container Security,Lightcast,container security,False
+Content Filtering,Lightcast,content filtering,False
+Content Security Policy,Lightcast,content security policy,False
+Data Scraping,Lightcast,data scraping,False
+OpenTelemetry,Lightcast,opentelemetry,False
+Scrapy (Web Crawler),Lightcast,scrapy web crawler,False
+Web Crawling,Lightcast,web crawling,False
+Statistical Data Collection,Lightcast,statistical data collection,False
+Apache Accumulo,Lightcast,apache accumulo,False
+Apache Atlas,Lightcast,apache atlas,False
+Apache Derby,Lightcast,apache derby,False
+Amazon Timestream,Lightcast,amazon timestream,False
+AWS Big Data,Lightcast,aws big data,False
+Azure Synapse Analytics,Lightcast,azure synapse analytics,False
+Big Data Application,Lightcast,big data application,False
+Bulk Import,Lightcast,bulk import,False
+Complex Event Processing,Lightcast,complex event processing,False
+Data Aggregation,Lightcast,data aggregation,False
+Data Collection,Lightcast,data collection,False
+Data Extraction,Lightcast,data extraction,False
+Data Ingestion,Lightcast,data ingestion,False
+Data Management,Lightcast,data management,False
+Data Governance,Lightcast,data governance,False
+Data Quality,Lightcast,data quality,False
+Data Wrangling,Lightcast,data wrangling,False
+Dataset,Lightcast,dataset,False
+Databricks,Lightcast,databricks,False
+Hadoop2,Lightcast,hadoop2,False
+Hash Table,Lightcast,hash table,False
+KNIME,Lightcast,knime,False
+LlamaIndex,Lightcast,llamaindex,False
+Metadata Management,Lightcast,metadata management,False
+OpenData,Lightcast,opendata,False
+Query Optimization,Lightcast,query optimization,False
+Stream Processing,Lightcast,stream processing,False
+Talend,Lightcast,talend,False
+Trifacta,Lightcast,trifacta,False
+Data Warehouse Systems,Lightcast,data warehouse systems,False
+Apache Kafka,Lightcast,apache kafka,False
+Apache Cassandra,Lightcast,apache cassandra,False
+Apache HBase,Lightcast,apache hbase,False
+ClickHouse DBMS,Lightcast,clickhouse dbms,False
+Cloud Firestore,Lightcast,cloud firestore,False
+CockroachDB,Lightcast,cockroachdb,False
+CouchDB,Lightcast,couchdb,False
+Graph Database,Lightcast,graph database,False
+GraphDB,Lightcast,graphdb,False
+InfluxDB,Lightcast,influxdb,False
+MariaDB,Lightcast,mariadb,False
+MongoDB,Lightcast,mongodb,False
+Neo4j,Lightcast,neo4j,False
+Oracle Database,Lightcast,oracle database,False
+Redis,Lightcast,redis,False
+Relational Databases,Lightcast,relational databases,False
+SAP HANA,Lightcast,sap hana,False
+SQLite,Lightcast,sqlite,False
+Teradata SQL,Lightcast,teradata sql,False
+Extended Reality,Lightcast,extended reality,False
+Metaverse,Lightcast,metaverse,False
+WebXR,Lightcast,webxr,False
+WebVR,Lightcast,webvr,False
+XR Development,Lightcast,xr development,False
+raw_term,source,raw_term,False
+Access Control Facility,Lightcast,access control facility,False
+Broadcom Endevor,Lightcast,broadcom endevor,False
+Coupling Facility,Lightcast,coupling facility,False
+Customer Information Control System (CICS),Lightcast,customer information control system cics,False
+Easytrieve,Lightcast,easytrieve,False
+Enterprise Systems Connection (ESCON),Lightcast,enterprise systems connection escon,False
+FileAid (Software),Lightcast,fileaid software,False
+IBM Mainframe,Lightcast,ibm mainframe,False
+IBM OMEGAMON,Lightcast,ibm omegamon,False
+IBM System Z,Lightcast,ibm system z,False
+IBM System/370,Lightcast,ibm system370,False
+Job Control Language (JCL),Lightcast,job control language jcl,False
+Job Entry Subsystem 2/3,Lightcast,job entry subsystem 23,False
+Mainframe Computing,Lightcast,mainframe computing,False
+Mainframe Testing,Lightcast,mainframe testing,False
+Micro Focus Enterprise Developer,Lightcast,micro focus enterprise developer,False
+MVS (OS),Lightcast,mvs os,False
+Panvalet,Lightcast,panvalet,False
+System Display And Search Facility (SDSF),Lightcast,system display and search facility sdsf,False
+Virtual Telecommunications Access Methods,Lightcast,virtual telecommunications access methods,False
+AWS CLI (Command Line Interface),Lightcast,aws cli command line interface,False
+Batch Files,Lightcast,batch files,False
+Batch Scripting,Lightcast,batch scripting,False
+Bourne Shell,Lightcast,bourne shell,False
+CGI Scripting,Lightcast,cgi scripting,False
+Command-Line Interface,Lightcast,commandline interface,False
+Cron,Lightcast,cron,False
+Custom Scripting,Lightcast,custom scripting,False
+Linux Scripting,Lightcast,linux scripting,False
+Secure Shell Protocol (SSH),Lightcast,secure shell protocol ssh,False
+Shell Script,Lightcast,shell script,False
+Unix Shell,Lightcast,unix shell,False
+Windows PowerShell,Lightcast,windows powershell,False
+ActivePerl,Lightcast,activeperl,False
+AppleScript (Scripting Language),Lightcast,applescript scripting language,False
+AutoHotkey,Lightcast,autohotkey,False
+AWK (Programming Language),Lightcast,awk programming language,False
+Bash (Scripting Language),Lightcast,bash scripting language,False
+BeanShell,Lightcast,beanshell,False
+ClojureScript,Lightcast,clojurescript,False
+COBOL (Programming Language),Lightcast,cobol programming language,False
+Crystal (Programming Language),Lightcast,crystal programming language,False
+ECMAScript,Lightcast,ecmascript,False
+ExtendScript,Lightcast,extendscript,False
+Gherkin (Scripting Language),Lightcast,gherkin scripting language,False
+Groovy (Programming Language),Lightcast,groovy programming language,False
+JavaScript (Programming Language),Lightcast,javascript programming language,False
+Julia (Programming Language),Lightcast,julia programming language,False
+Lua (Scripting Language),Lightcast,lua scripting language,False
+Perl (Programming Language),Lightcast,perl programming language,False
+PHP (Scripting Language),Lightcast,php scripting language,False
+Python (Programming Language),Lightcast,python programming language,False
+R (Programming Language),Lightcast,r programming language,False
+Ruby (Programming Language),Lightcast,ruby programming language,False
+Tcl (Programming Language),Lightcast,tcl programming language,False
+VBScript (Visual Basic Scripting Edition),Lightcast,vbscript visual basic scripting edition,False
+Agile Testing,Lightcast,agile testing,False
+AI Testing,Lightcast,ai testing,False
+API Testing,Lightcast,api testing,False
+Application Performance Management,Lightcast,application performance management,False
+Automated Testing Framework,Lightcast,automated testing framework,False
+Black-Box Testing,Lightcast,blackbox testing,False
+Boundary Testing,Lightcast,boundary testing,False
+Bug Tracking And Management,Lightcast,bug tracking and management,False
+Code Coverage,Lightcast,code coverage,False
+Code Review,Lightcast,code review,False
+Defect Management,Lightcast,defect management,False
+Exploratory Testing,Lightcast,exploratory testing,False
+Functional Testing,Lightcast,functional testing,False
+Integration Testing,Lightcast,integration testing,False
+Load Testing,Lightcast,load testing,False
+Manual Testing,Lightcast,manual testing,False
+Non-Functional Testing,Lightcast,nonfunctional testing,False
+Regression Testing,Lightcast,regression testing,False
+Sanity Testing,Lightcast,sanity testing,False
+Selenium (Software),Lightcast,selenium software,False
+Smoke Testing,Lightcast,smoke testing,False
+Software Testing,Lightcast,software testing,False
+Test Automation,Lightcast,test automation,False
+Test Case,Lightcast,test case,False
+Test Planning,Lightcast,test planning,False
+Test Suite,Lightcast,test suite,False
+Unit Testing,Lightcast,unit testing,False
+User Acceptance Testing (UAT),Lightcast,user acceptance testing uat,False
+Web Testing,Lightcast,web testing,False
+Version Control,Lightcast,version control,False
+Git (Version Control System),Lightcast,git version control system,False
+GitHub,Lightcast,github,False
+GitLab,Lightcast,gitlab,False
+Mercurial,Lightcast,mercurial,False
+Perforce,Lightcast,perforce,False
+TortoiseGit,Lightcast,tortoisegit,False
+TortoiseSVN,Lightcast,tortoisesvn,False
+Virtualization,Lightcast,virtualization,False
+Containerization,Lightcast,containerization,False
+Docker,Lightcast,docker,False
+Hyper-V,Lightcast,hyperv,False
+Kubernetes,Lightcast,kubernetes,False
+Virtual Machines,Lightcast,virtual machines,False
+VMware,Lightcast,vmware,False
+Web Development,Lightcast,web development,False
+Web Frameworks,Lightcast,web frameworks,False
+HTML5,Lightcast,html5,False
+React,Lightcast,react,False
+Vue.js,Lightcast,vuejs,False
+Django (Web Framework),Lightcast,django web framework,False
+Flask (Web Framework),Lightcast,flask web framework,False
+Ruby On Rails,Lightcast,ruby on rails,False
+Spring Boot,Lightcast,spring boot,False
+Web Accessibility,Lightcast,web accessibility,False
+Web Application Development,Lightcast,web application development,False
+Web Performance Optimization,Lightcast,web performance optimization,False
+Mobile Application Development,Lightcast,mobile application development,False
+Android Development,Lightcast,android development,False
+Android SDK,Lightcast,android sdk,False
+Android Studio,Lightcast,android studio,False
+Flutter (Software),Lightcast,flutter software,False
+Ionic Framework,Lightcast,ionic framework,False
+Xamarin,Lightcast,xamarin,False
+iOS Development,Lightcast,ios development,False
+Mobile App Testing,Lightcast,mobile app testing,False
+Wireless Communications,Lightcast,wireless communications,False
+5G Technology,Lightcast,5g technology,False
+Bluetooth,Lightcast,bluetooth,False
+Wi-Fi Networking,Lightcast,wifi networking,False
+Wireless Network Protocols,Lightcast,wireless network protocols,False
+Telecommunications,Lightcast,telecommunications,False
+Internet Of Things (IoT),Lightcast,internet of things iot,False
+raw_term,source,raw_term,False
+Adobe JRun,Lightcast,adobe jrun,False
+Anorm,Lightcast,anorm,False
+Apache Myfaces,Lightcast,apache myfaces,False
+Apache Openjpa,Lightcast,apache openjpa,False
+Apache Tapestry,Lightcast,apache tapestry,False
+Arraylist,Lightcast,arraylist,False
+Asadmin,Lightcast,asadmin,False
+Asynchronous Javascript and XML (AJAX),Lightcast,asynchronous javascript and xml ajax,False
+Atomikos,Lightcast,atomikos,False
+Autoboxing,Lightcast,autoboxing,False
+Bean Validation,Lightcast,bean validation,False
+BlueJ,Lightcast,bluej,False
+Bytecode,Lightcast,bytecode,False
+Cglib,Lightcast,cglib,False
+Deterministic Parallel Java,Lightcast,deterministic parallel java,False
+Direct Web Remoting (Java),Lightcast,direct web remoting java,False
+Dropwizard,Lightcast,dropwizard,False
+EAR (File Format),Lightcast,ear file format,False
+Easy Java Simulations,Lightcast,easy java simulations,False
+Ebean,Lightcast,ebean,False
+Eclemma,Lightcast,eclemma,False
+EclipseLink,Lightcast,eclipselink,False
+Embedded Java,Lightcast,embedded java,False
+Enterprise Java Bean Certificate Authority (EJBCA),Lightcast,enterprise java bean certificate authority ejbca,False
+Enterprise JavaBeans,Lightcast,enterprise javabeans,False
+Espresso (Java),Lightcast,espresso java,False
+Event Listeners (Java),Lightcast,event listeners java,False
+Facebook4j,Lightcast,facebook4j,False
+Generic Java,Lightcast,generic java,False
+Generics In Java,Lightcast,generics in java,False
+Google Gson (Java Library),Lightcast,google gson java library,False
+Google Guava,Lightcast,google guava,False
+Google Guice,Lightcast,google guice,False
+Gwt 2.5,Lightcast,gwt 25,False
+Hamcrest,Lightcast,hamcrest,False
+Hawtio,Lightcast,hawtio,False
+Hibernate (Java),Lightcast,hibernate java,False
+Hibernate ORM,Lightcast,hibernate orm,False
+JaCoCo,Lightcast,jacoco,False
+JacORB,Lightcast,jacorb,False
+Jakarta EE,Lightcast,jakarta ee,False
+Jakarta EE Application,Lightcast,jakarta ee application,False
+Jakarta EE Connector Architecture,Lightcast,jakarta ee connector architecture,False
+Jakarta EE Version History,Lightcast,jakarta ee version history,False
+Jakarta Enterprise Edition,Lightcast,jakarta enterprise edition,False
+Jakarta Persistence Query Language,Lightcast,jakarta persistence query language,False
+Jakarta Portlet Specification,Lightcast,jakarta portlet specification,False
+Jakarta XML Binding,Lightcast,jakarta xml binding,False
+Japplet,Lightcast,japplet,False
+JAR (Java ARchive),Lightcast,jar java archive,False
+Jasypt,Lightcast,jasypt,False
+Java (Programming Language),Lightcast,java programming language,False
+Java 11,Lightcast,java 11,False
+Java 2 Certification,Lightcast,java 2 certification,False
+Java 2D,Lightcast,java 2d,False
+Java 3D,Lightcast,java 3d,False
+Java 7,Lightcast,java 7,False
+Java 8,Lightcast,java 8,False
+Java 9,Lightcast,java 9,False
+Java Access Bridge,Lightcast,java access bridge,False
+Java Agent Development Framework,Lightcast,java agent development framework,False
+Java Annotation,Lightcast,java annotation,False
+Java Applet,Lightcast,java applet,False
+Java Application Server,Lightcast,java application server,False
+Java Architectures,Lightcast,java architectures,False
+Java Authentication And Authorization Services,Lightcast,java authentication and authorization services,False
+Java Batch,Lightcast,java batch,False
+Java Business Integration,Lightcast,java business integration,False
+Java Business Process Management,Lightcast,java business process management,False
+Java Bytecode,Lightcast,java bytecode,False
+Java Card,Lightcast,java card,False
+Java Card OpenPlatform,Lightcast,java card openplatform,False
+Java Classloader,Lightcast,java classloader,False
+Java Code Coverage Tools,Lightcast,java code coverage tools,False
+Java Collections Framework,Lightcast,java collections framework,False
+Java Community Process,Lightcast,java community process,False
+Java Concurrency,Lightcast,java concurrency,False
+Java Console,Lightcast,java console,False
+Java Cryptography Architecture,Lightcast,java cryptography architecture,False
+Java Cryptography Extension,Lightcast,java cryptography extension,False
+Java Data Mining,Lightcast,java data mining,False
+Java Data Objects,Lightcast,java data objects,False
+Java Database Connectivity,Lightcast,java database connectivity,False
+Java Decompiler,Lightcast,java decompiler,False
+Java Desktop Network Components,Lightcast,java desktop network components,False
+Java Development Kit,Lightcast,java development kit,False
+Java Development Tools,Lightcast,java development tools,False
+Java Dynamic Management Kit,Lightcast,java dynamic management kit,False
+Java Editors,Lightcast,java editors,False
+Java GUIs,Lightcast,java guis,False
+Java Interface Definition Language,Lightcast,java interface definition language,False
+Java KeyStore (JKS),Lightcast,java keystore jks,False
+Java Keywords,Lightcast,java keywords,False
+Java Management Extensions,Lightcast,java management extensions,False
+Java Media Framework,Lightcast,java media framework,False
+Java Module,Lightcast,java module,False
+Java Naming And Directory Interface,Lightcast,java naming and directory interface,False
+Java Native Access,Lightcast,java native access,False
+Java Native Interface,Lightcast,java native interface,False
+Java Network Launch Protocol (JNLP),Lightcast,java network launch protocol jnlp,False
+Java Object Oriented Querying,Lightcast,java object oriented querying,False
+Java OpenGL,Lightcast,java opengl,False
+Java Package,Lightcast,java package,False
+Java Platform Debugger Architecture (JPDA),Lightcast,java platform debugger architecture jpda,False
+Java Platform Micro Edition (J2ME),Lightcast,java platform micro edition j2me,False
+Java Profiler,Lightcast,java profiler,False
+Java Rule Engine API (JSR 94),Lightcast,java rule engine api jsr 94,False
+Java Runtime Environment,Lightcast,java runtime environment,False
+Java Scripting Languages,Lightcast,java scripting languages,False
+Java SE (Standard Edition),Lightcast,java se standard edition,False
+Java Secure Socket Extension,Lightcast,java secure socket extension,False
+Java Servlet,Lightcast,java servlet,False
+Java Simple Plugin Framework (JSPF),Lightcast,java simple plugin framework jspf,False
+Java Specification Requests (JSRs),Lightcast,java specification requests jsrs,False
+Java Stored Procedure (SQL),Lightcast,java stored procedure sql,False
+Java Syntax,Lightcast,java syntax,False
+Java Telephony API,Lightcast,java telephony api,False
+Java Transaction Service,Lightcast,java transaction service,False
+Java TV,Lightcast,java tv,False
+Java Web Start,Lightcast,java web start,False
+Java XML,Lightcast,java xml,False
+Java.util.concurrent,Lightcast,javautilconcurrent,False
+Java1.4,Lightcast,java14,False
+JavaBeans,Lightcast,javabeans,False
+JavaBeans Activation Framework,Lightcast,javabeans activation framework,False
+Javac - Java Programming Language Compiler,Lightcast,javac  java programming language compiler,False
+JavaCC,Lightcast,javacc,False
+Javacv,Lightcast,javacv,False
+Javadoc,Lightcast,javadoc,False
+JavaFX,Lightcast,javafx,False
+JavaFX Script,Lightcast,javafx script,False
+JavaPOS,Lightcast,javapos,False
+JavaServer Faces,Lightcast,javaserver faces,False
+JavaServer Pages,Lightcast,javaserver pages,False
+JavaServer Pages Standard Tag Library,Lightcast,javaserver pages standard tag library,False
+Javax Tools,Lightcast,javax tools,False
+JAX-WS,Lightcast,jaxws,False
+Jaybird,Lightcast,jaybird,False
+JBoss Enterprise SOA Platforms,Lightcast,jboss enterprise soa platforms,False
+JBoss Operations Networks,Lightcast,jboss operations networks,False
+Jcache,Lightcast,jcache,False
+JConsole,Lightcast,jconsole,False
+JCreator,Lightcast,jcreator,False
+JDBC Driver,Lightcast,jdbc driver,False
+JdbcTemplate,Lightcast,jdbctemplate,False
+Jdepend,Lightcast,jdepend,False
+Jdialog,Lightcast,jdialog,False
+Jdk1.4,Lightcast,jdk14,False
+Jdk1.5,Lightcast,jdk15,False
+Jdk1.6,Lightcast,jdk16,False
+Jdk1.7,Lightcast,jdk17,False
+Jdom,Lightcast,jdom,False
+Jest (JavaScript Testing Framework),Lightcast,jest javascript testing framework,False
+Jetty,Lightcast,jetty,False
+JFace (UI Toolkit),Lightcast,jface ui toolkit,False
+Jgrapht,Lightcast,jgrapht,False
+JGRASP,Lightcast,jgrasp,False
+JiBX,Lightcast,jibx,False
+Jini,Lightcast,jini,False
+Jlist,Lightcast,jlist,False
+jMock,Lightcast,jmock,False
+JMockit,Lightcast,jmockit,False
+Jpa Annotations,Lightcast,jpa annotations,False
+JPA2,Lightcast,jpa2,False
+Jpcap,Lightcast,jpcap,False
+JPOS Framework,Lightcast,jpos framework,False
+Jrebel,Lightcast,jrebel,False
+JRT,Lightcast,jrt,False
+JSDK - Java Servlet Development Kit,Lightcast,jsdk  java servlet development kit,False
+JSF 2,Lightcast,jsf 2,False
+Jsonkit,Lightcast,jsonkit,False
+Jsoup Java HTML Parser,Lightcast,jsoup java html parser,False
+Jstack,Lightcast,jstack,False
+Jstat,Lightcast,jstat,False
+Jtable,Lightcast,jtable,False
+Jtree,Lightcast,jtree,False
+Jython,Lightcast,jython,False
+Lombok,Lightcast,lombok,False
+Lomboz,Lightcast,lomboz,False
+Managed Bean,Lightcast,managed bean,False
+MC4J,Lightcast,mc4j,False
+Message Driven Beans,Lightcast,message driven beans,False
+Mojarra,Lightcast,mojarra,False
+Moshi,Lightcast,moshi,False
+MyBatis,Lightcast,mybatis,False
+Nashorn,Lightcast,nashorn,False
+Non-Blocking I/O (Java),Lightcast,nonblocking io java,False
+Omnifaces,Lightcast,omnifaces,False
+Openjdk,Lightcast,openjdk,False
+OptimalJ,Lightcast,optimalj,False
+Oracle Java Certification,Lightcast,oracle java certification,False
+Orkut,Lightcast,orkut,False
+OSS Through Java,Lightcast,oss through java,False
+Permgen,Lightcast,permgen,False
+Pnuts,Lightcast,pnuts,False
+Powermock,Lightcast,powermock,False
+Powermockito,Lightcast,powermockito,False
+Primefaces,Lightcast,primefaces,False
+Quarkus,Lightcast,quarkus,False
+React Hooks,Lightcast,react hooks,False
+Real Time Java,Lightcast,real time java,False
+RichFaces,Lightcast,richfaces,False
+Runnable,Lightcast,runnable,False
+RxJava,Lightcast,rxjava,False
+Salesforce Certified Javascript Developer I,Lightcast,salesforce certified javascript developer i,False
+SAP Java Connector,Lightcast,sap java connector,False
+Session Beans,Lightcast,session beans,False
+Sigar,Lightcast,sigar,False
+Signed Applet,Lightcast,signed applet,False
+Smartgwt,Lightcast,smartgwt,False
+Solrj,Lightcast,solrj,False
+Sqljdbc,Lightcast,sqljdbc,False
+Standard Widget Toolkits,Lightcast,standard widget toolkits,False
+Static Import,Lightcast,static import,False
+Styled-Components,Lightcast,styledcomponents,False
+Sun Certified Developer For Java Web Services,Lightcast,sun certified developer for java web services,False
+Sun Certified Java Programmer (SCJP),Lightcast,sun certified java programmer scjp,False
+Sun Certified Mobile Application Developer,Lightcast,sun certified mobile application developer,False
+Sun Java Wireless Toolkits,Lightcast,sun java wireless toolkits,False
+SuperWaba,Lightcast,superwaba,False
+Swing (Java),Lightcast,swing java,False
+Swing Application Framework,Lightcast,swing application framework,False
+SwingWorker,Lightcast,swingworker,False
+Thymeleaf,Lightcast,thymeleaf,False
+Tomcat5.5,Lightcast,tomcat55,False
+Tomcat7,Lightcast,tomcat7,False
+TopLink,Lightcast,toplink,False
+Twitter4j,Lightcast,twitter4j,False
+Visual Cafe For Java,Lightcast,visual cafe for java,False
+Weblogic11g,Lightcast,weblogic11g,False
+Weblogic12c,Lightcast,weblogic12c,False
+Wss4j,Lightcast,wss4j,False
+XDoclet,Lightcast,xdoclet,False
+Xtend - Modernized Java,Lightcast,xtend  modernized java,False
+Yoix,Lightcast,yoix,False
+Zipkin,Lightcast,zipkin,False
+ZK Framework,Lightcast,zk framework,False
+.htaccess Files,Lightcast,htaccess files,False
+ActiveX Document,Lightcast,activex document,False
+Adaptive Design,Lightcast,adaptive design,False
+Adobe Business Catalyst,Lightcast,adobe business catalyst,False
+Adobe Certified Coldfusion Mx Developer,Lightcast,adobe certified coldfusion mx developer,False
+Adobe ColdFusion,Lightcast,adobe coldfusion,False
+Adobe Dreamweaver,Lightcast,adobe dreamweaver,False
+Adobe Dreamweaver Certification,Lightcast,adobe dreamweaver certification,False
+Adobe Edge Animate,Lightcast,adobe edge animate,False
+Adobe GoLive,Lightcast,adobe golive,False
+Agavi (Framework),Lightcast,agavi framework,False
+Ajax.net,Lightcast,ajaxnet,False
+Ajax4jsf,Lightcast,ajax4jsf,False
+Angular (Web Framework),Lightcast,angular web framework,False
+Apache Flex,Lightcast,apache flex,False
+Apache Sling,Lightcast,apache sling,False
+Apache Struts,Lightcast,apache struts,False
+Apache Tiles,Lightcast,apache tiles,False
+Apache Turbine,Lightcast,apache turbine,False
+Apache Wicket,Lightcast,apache wicket,False
+Aptana,Lightcast,aptana,False
+ASP.NET Fundamentals,Lightcast,aspnet fundamentals,False
+Asynchronous Javascript,Lightcast,asynchronous javascript,False
+Avada WordPress Theme,Lightcast,avada wordpress theme,False
+Backbase,Lightcast,backbase,False
+Beaver Builder,Lightcast,beaver builder,False
+Beego,Lightcast,beego,False
+Blazor,Lightcast,blazor,False
+Bootstrap (Front-End Framework),Lightcast,bootstrap frontend framework,False
+Browser Compatibility,Lightcast,browser compatibility,False
+Browser Debugging,Lightcast,browser debugging,False
+Browser Extension,Lightcast,browser extension,False
+Bulma CSS,Lightcast,bulma css,False
+Capistrano (Software),Lightcast,capistrano software,False
+Carrierwave,Lightcast,carrierwave,False
+Cascading Style Sheets (CSS),Lightcast,cascading style sheets css,False
+Celery (Software),Lightcast,celery software,False
+Certified Web Designer Associate (CWDSA),Lightcast,certified web designer associate cwdsa,False
+CGIC (ANSI C Library For CGI Programming),Lightcast,cgic ansi c library for cgi programming,False
+Character Encodings In HTML,Lightcast,character encodings in html,False
+Client Side Rendering,Lightcast,client side rendering,False
+Codepen,Lightcast,codepen,False
+Codesign,Lightcast,codesign,False
+CoffeeCup HTML Editor,Lightcast,coffeecup html editor,False
+ColdBox Platforms,Lightcast,coldbox platforms,False
+ColdFusion on Wheels,Lightcast,coldfusion on wheels,False
+Compact HyperText Markup Language (C-HTML),Lightcast,compact hypertext markup language chtml,False
+Complex Web Systems,Lightcast,complex web systems,False
+Constraint Layout,Lightcast,constraint layout,False
+Create React App,Lightcast,create react app,False
+CreateJS,Lightcast,createjs,False
+CSS Animations,Lightcast,css animations,False
+CSS Codes,Lightcast,css codes,False
+CSS Flex Box Layout,Lightcast,css flex box layout,False
+CSS Frameworks,Lightcast,css frameworks,False
+CSS Grid,Lightcast,css grid,False
+CSS Modules,Lightcast,css modules,False
+Custom Tag,Lightcast,custom tag,False
+Custom URLs,Lightcast,custom urls,False
+Delayed Job,Lightcast,delayed job,False
+Devextreme,Lightcast,devextreme,False
+Digital Framework,Lightcast,digital framework,False
+Divi WordPress Theme,Lightcast,divi wordpress theme,False
+Django (Web Framework),Lightcast,django web framework,False
+DOM Inspector,Lightcast,dom inspector,False
+Dopostback,Lightcast,dopostback,False
+Drag And Drop,Lightcast,drag and drop,False
+Dynamic Forms,Lightcast,dynamic forms,False
+Dynamic HTML,Lightcast,dynamic html,False
+Dynamic Web Pages,Lightcast,dynamic web pages,False
+Dynamic Websites,Lightcast,dynamic websites,False
+Dynamically Generated,Lightcast,dynamically generated,False
+Electron Packager,Lightcast,electron packager,False
+Elementor Page Builder,Lightcast,elementor page builder,False
+Ember CLI,Lightcast,ember cli,False
+Ember Model,Lightcast,ember model,False
+Express 4,Lightcast,express 4,False
+Ext.NET,Lightcast,extnet,False
+EZGenerator,Lightcast,ezgenerator,False
+Facelets,Lightcast,facelets,False
+Firebug,Lightcast,firebug,False
+Flask (Web Framework),Lightcast,flask web framework,False
+Flex4,Lightcast,flex4,False
+Flexbox,Lightcast,flexbox,False
+Form Fields,Lightcast,form fields,False
+Formbuilder,Lightcast,formbuilder,False
+Framing (HTML),Lightcast,framing html,False
+FreeMarker,Lightcast,freemarker,False
+FrontPage Server Extensions,Lightcast,frontpage server extensions,False
+FuelPHP,Lightcast,fuelphp,False
+Fusebox (Programming),Lightcast,fusebox programming,False
+Genesis Framework,Lightcast,genesis framework,False
+Google Closure Tools,Lightcast,google closure tools,False
+Google Lighthouse,Lightcast,google lighthouse,False
+Google Sites,Lightcast,google sites,False
+Google Web Toolkits,Lightcast,google web toolkits,False
+Grails (Framework),Lightcast,grails framework,False
+Gravity Forms,Lightcast,gravity forms,False
+Grid Layout,Lightcast,grid layout,False
+Groovy Server Pages,Lightcast,groovy server pages,False
+Gulp Sass (Software),Lightcast,gulp sass software,False
+Gwt 2.4,Lightcast,gwt 24,False
+Hanami,Lightcast,hanami,False
+Hierarchical Model View Controller,Lightcast,hierarchical model view controller,False
+HoTMetaL,Lightcast,hotmetal,False
+HTML 4.0 Certification,Lightcast,html 40 certification,False
+HTML Abstraction Markup Language,Lightcast,html abstraction markup language,False
+HTML Components,Lightcast,html components,False
+HTML Controls,Lightcast,html controls,False
+HTML Editor,Lightcast,html editor,False
+HTML Emails,Lightcast,html emails,False
+HTML Formatting,Lightcast,html formatting,False
+HTML Generation,Lightcast,html generation,False
+HTML Tables,Lightcast,html tables,False
+HTML5,Lightcast,html5,False
+HTTP Cookie,Lightcast,http cookie,False
+Http Protocols,Lightcast,http protocols,False
+HTTP/2,Lightcast,http2,False
+Httpclient,Lightcast,httpclient,False
+Httpsession,Lightcast,httpsession,False
+Hypermedia,Lightcast,hypermedia,False
+HyperText Markup Language (HTML),Lightcast,hypertext markup language html,False
+ICEfaces,Lightcast,icefaces,False
+Interactive Web Pages,Lightcast,interactive web pages,False
+Intraweb,Lightcast,intraweb,False
+Intuitive Navigation,Lightcast,intuitive navigation,False
+Invision Power Board,Lightcast,invision power board,False
+Isomorphic JavaScript,Lightcast,isomorphic javascript,False
+Isomorphic React,Lightcast,isomorphic react,False
+IWeb,Lightcast,iweb,False
+JBoss Seam,Lightcast,jboss seam,False
+Jekyll,Lightcast,jekyll,False
+Jform,Lightcast,jform,False
+Jinja (Template Engine),Lightcast,jinja template engine,False
+Jotform,Lightcast,jotform,False
+JSON Web Signature (JWS),Lightcast,json web signature jws,False
+LAMP (Software Bundle),Lightcast,lamp software bundle,False
+Landing Page Optimization,Lightcast,landing page optimization,False
+Laragon,Lightcast,laragon,False
+Leaner Style Sheets (LESS),Lightcast,leaner style sheets less,False
+LEMP Stack,Lightcast,lemp stack,False
+Less.js (Javascript Library),Lightcast,lessjs javascript library,False
+Lightning Web Components,Lightcast,lightning web components,False
+Load Time,Lightcast,load time,False
+Local Shared Object (Flash),Lightcast,local shared object flash,False
+Mach II Framework,Lightcast,mach ii framework,False
+Macromedia HomeSite (HTML Editor),Lightcast,macromedia homesite html editor,False
+MAMP,Lightcast,mamp,False
+Maqetta,Lightcast,maqetta,False
+Master Certified Internet Webmaster In Design (MCIWD),Lightcast,master certified internet webmaster in design mciwd,False
+Mean Stack,Lightcast,mean stack,False
+MERN Stack,Lightcast,mern stack,False
+Microformat,Lightcast,microformat,False
+Microfrontend (MFE),Lightcast,microfrontend mfe,False
+Microsites,Lightcast,microsites,False
+Microsoft Expression Web,Lightcast,microsoft expression web,False
+Microsoft Power Pages,Lightcast,microsoft power pages,False
+Minimum Viable Product Design,Lightcast,minimum viable product design,False
+Model-Glue (Framework),Lightcast,modelglue framework,False
+Mojolicious,Lightcast,mojolicious,False
+Moovweb,Lightcast,moovweb,False
+Multilingual Websites,Lightcast,multilingual websites,False
+Mustache (Template System),Lightcast,mustache template system,False
+Mysite,Lightcast,mysite,False
+NACSE Certified Webmaster,Lightcast,nacse certified webmaster,False
+NCCER Site Layout,Lightcast,nccer site layout,False
+Netlify,Lightcast,netlify,False
+NetObjects Fusion,Lightcast,netobjects fusion,False
+Netscape Composer,Lightcast,netscape composer,False
+Nevow,Lightcast,nevow,False
+Ng Grid,Lightcast,ng grid,False
+Ngfor,Lightcast,ngfor,False
+Nodemon,Lightcast,nodemon,False
+Nvu,Lightcast,nvu,False
+Object Oriented CSS,Lightcast,object oriented css,False
+Open Web,Lightcast,open web,False
+OpenLaszlo,Lightcast,openlaszlo,False
+Opera Software,Lightcast,opera software,False
+Oracle ATG Web Commerce,Lightcast,oracle atg web commerce,False
+Ozone Widget Framework,Lightcast,ozone widget framework,False
+Padrino (Web Framework),Lightcast,padrino web framework,False
+Page Flow,Lightcast,page flow,False
+PageSpeed,Lightcast,pagespeed,False
+Partial Views,Lightcast,partial views,False
+Pattern Lab (Software),Lightcast,pattern lab software,False
+Phoenix LiveView,Lightcast,phoenix liveview,False
+phpDesigner,Lightcast,phpdesigner,False
+phpFox,Lightcast,phpfox,False
+PHPMailer,Lightcast,phpmailer,False
+Platform Design And Development,Lightcast,platform design and development,False
+Play Framework,Lightcast,play framework,False
+Plunker,Lightcast,plunker,False
+Polyfills,Lightcast,polyfills,False
+PostCSS,Lightcast,postcss,False
+Progressive Enhancement,Lightcast,progressive enhancement,False
+PSD to HTML,Lightcast,psd to html,False
+PSD to Magento,Lightcast,psd to magento,False
+PSD to WordPress,Lightcast,psd to wordpress,False
+Pushstate,Lightcast,pushstate,False
+Python Server Pages (Python Package),Lightcast,python server pages python package,False
+Qooxdoo,Lightcast,qooxdoo,False
+Radeditor,Lightcast,radeditor,False
+Ramaze (Free Software Programmed In Ruby),Lightcast,ramaze free software programmed in ruby,False
+Ratpack,Lightcast,ratpack,False
+React-Admin,Lightcast,reactadmin,False
+Reasonable Server Faces,Lightcast,reasonable server faces,False
+Responsive HTML,Lightcast,responsive html,False
+Responsive Web Design,Lightcast,responsive web design,False
+Rich Internet Application,Lightcast,rich internet application,False
+Rich Internet Application Frameworks,Lightcast,rich internet application frameworks,False
+Rich Site Summary (RSS),Lightcast,rich site summary rss,False
+Ruby On Rails,Lightcast,ruby on rails,False
+SAP NetWeaver Visual Composer,Lightcast,sap netweaver visual composer,False
+Sassy Cascading Style Sheets (SCSS),Lightcast,sassy cascading style sheets scss,False
+Scalable and Modular Architecture for CSS,Lightcast,scalable and modular architecture for css,False
+Scalable Vector Graphics,Lightcast,scalable vector graphics,False
+Search Form,Lightcast,search form,False
+Semantic HTML,Lightcast,semantic html,False
+Semantic UI,Lightcast,semantic ui,False
+Server Pages,Lightcast,server pages,False
+Server Response,Lightcast,server response,False
+Showit Website Builder,Lightcast,showit website builder,False
+Silex (PHP Micro-Framework),Lightcast,silex php microframework,False
+Single Page Application,Lightcast,single page application,False
+Site Maps,Lightcast,site maps,False
+Site Studio,Lightcast,site studio,False
+Sitemaps (XML),Lightcast,sitemaps xml,False
+SmartClient,Lightcast,smartclient,False
+SortSite,Lightcast,sortsite,False
+Splash Pages,Lightcast,splash pages,False
+Spring WebFlux,Lightcast,spring webflux,False
+Squarespace,Lightcast,squarespace,False
+Static Content,Lightcast,static content,False
+Static HTML,Lightcast,static html,False
+Static Pages,Lightcast,static pages,False
+StorybookJS,Lightcast,storybookjs,False
+Streamlit,Lightcast,streamlit,False
+Symfony1,Lightcast,symfony1,False
+Symfony3,Lightcast,symfony3,False
+Tableless Web Design,Lightcast,tableless web design,False
+Tailwind CSS,Lightcast,tailwind css,False
+Tempdata,Lightcast,tempdata,False
+Template Engine,Lightcast,template engine,False
+Tornado (Web Framework),Lightcast,tornado web framework,False
+Twig (Template Engine),Lightcast,twig template engine,False
+Unbounce (Software),Lightcast,unbounce software,False
+URL Redirection,Lightcast,url redirection,False
+Usage Share Of Web Browsers,Lightcast,usage share of web browsers,False
+User Controls,Lightcast,user controls,False
+User Preferences,Lightcast,user preferences,False
+Vaadin,Lightcast,vaadin,False
+Varnish Cache,Lightcast,varnish cache,False
+Vercel Platform,Lightcast,vercel platform,False
+Vite JS,Lightcast,vite js,False
+Vue Router,Lightcast,vue router,False
+WaveMaker,Lightcast,wavemaker,False
+Web 2.0,Lightcast,web 20,False
+Web 3.0,Lightcast,web 30,False
+Web Accessibility,Lightcast,web accessibility,False
+Web Accessibility Initiative,Lightcast,web accessibility initiative,False
+Web Accessibility Standards,Lightcast,web accessibility standards,False
+Web Accessibility Testing,Lightcast,web accessibility testing,False
+Web Admin,Lightcast,web admin,False
+Web Application Description Language (WADL),Lightcast,web application description language wadl,False
+Web Application Development,Lightcast,web application development,False
+Web Application Frameworks,Lightcast,web application frameworks,False
+Web Applications,Lightcast,web applications,False
+Web Authoring,Lightcast,web authoring,False
+Web Calendar Access Protocols,Lightcast,web calendar access protocols,False
+Web Deployment,Lightcast,web deployment,False
+Web Design,Lightcast,web design,False
+Web Design Programs,Lightcast,web design programs,False
+Web Development,Lightcast,web development,False
+Web Development Tools,Lightcast,web development tools,False
+Web Dynpro,Lightcast,web dynpro,False
+Web Dynproing (WDA),Lightcast,web dynproing wda,False
+Web Engineering,Lightcast,web engineering,False
+Web Frameworks,Lightcast,web frameworks,False
+Web Maintenance,Lightcast,web maintenance,False
+Web Modeling,Lightcast,web modeling,False
+Web Pages,Lightcast,web pages,False
+Web Parts,Lightcast,web parts,False
+Web Performance Optimization,Lightcast,web performance optimization,False
+Web Platforms,Lightcast,web platforms,False
+Web Portals,Lightcast,web portals,False
+Web Project,Lightcast,web project,False
+OpenAI GPT,StackOverflow,openai gpt,False
+Claude Sonnet,StackOverflow,claude sonnet,False
+Gemini Flash,StackOverflow,gemini flash,False
+OpenAI Reasoning,StackOverflow,openai reasoning,False
+OpenAI Image,StackOverflow,openai image,False
+Gemini Reasoning,StackOverflow,gemini reasoning,False
+DeepSeek Reasoning,StackOverflow,deepseek reasoning,False
+Meta Llama,StackOverflow,meta llama,False
+DeepSeek General,StackOverflow,deepseek general,False
+X Grok,StackOverflow,x grok,False
+Mistral,StackOverflow,mistral,False
+Perplexity Sonar,StackOverflow,perplexity sonar,False
+Alibaba Qwen,StackOverflow,alibaba qwen,False
+Microsoft Phi-4 models,StackOverflow,microsoft phi4 models,False
+Amazon Titan models,StackOverflow,amazon titan models,False
+Cohere: Command A,StackOverflow,cohere command a,False
+Reka (Flash 3 or other Reka models),StackOverflow,reka flash 3 or other reka models,False
+SwiftData,StackOverflow,swiftdata,False
+Ultralytics,StackOverflow,ultralytics,False
+visionOS,StackOverflow,visionos,False
+Webix,Lightcast,webix,False
+WebKit,Lightcast,webkit,False
+WebObjects,Lightcast,webobjects,False
+Webpack 2,Lightcast,webpack 2,False
+Website Architecture,Lightcast,website architecture,False
+Website Builder,Lightcast,website builder,False
+Website Deployment,Lightcast,website deployment,False
+Webview,Lightcast,webview,False
+Werkzeug,Lightcast,werkzeug,False
+Wijmo,Lightcast,wijmo,False
+Wix.com,Lightcast,wixcom,False
+Wordpress Ecommerce,Lightcast,wordpress ecommerce,False
+WordPress Plugin Development,Lightcast,wordpress plugin development,False
+WOW Certified Web Designer Apprentice,Lightcast,wow certified web designer apprentice,False
+WPBakery,Lightcast,wpbakery,False
+WPEngine,Lightcast,wpengine,False
+Xajax,Lightcast,xajax,False
+XAMPP,Lightcast,xampp,False
+Xitami,Lightcast,xitami,False
+XMLhttprequest,Lightcast,xmlhttprequest,False
+XPages,Lightcast,xpages,False
+Yeoman Generator,Lightcast,yeoman generator,False
+Yslow,Lightcast,yslow,False
+YUI Libraries,Lightcast,yui libraries,False
+Zend Certified PHP Engineer,Lightcast,zend certified php engineer,False
+Zend Framework 2 Certification,Lightcast,zend framework 2 certification,False
+Zikula,Lightcast,zikula,False
+Zurb Foundation,Lightcast,zurb foundation,False
+Advanced Linux Sound Architecture,Lightcast,advanced linux sound architecture,False
+Advanced Microcontroller Bus Architecture,Lightcast,advanced microcontroller bus architecture,False
+Apache Ranger,Lightcast,apache ranger,False
+ARM Microarchitectures,Lightcast,arm microarchitectures,False
+ARM7 Architecture,Lightcast,arm7 architecture,False
+ARM9 Architecture,Lightcast,arm9 architecture,False
+Atomicity Consistency Isolation Durability (ACID),Lightcast,atomicity consistency isolation durability acid,False
+Auditd,Lightcast,auditd,False
+Automatic Storage Management,Lightcast,automatic storage management,False
+Bachman Diagrams,Lightcast,bachman diagrams,False
+Bacpac,Lightcast,bacpac,False
+Basic Partitioned Access Methods,Lightcast,basic partitioned access methods,False
+Borland Database Engine,Lightcast,borland database engine,False
+Branching And Merging,Lightcast,branching and merging,False
+Bytebuffer,Lightcast,bytebuffer,False
+Caliburn.micro,Lightcast,caliburnmicro,False
+Caspio,Lightcast,caspio,False
+Certified MySQL Database Administrator,Lightcast,certified mysql database administrator,False
+Change Data Capture (CDC),Lightcast,change data capture cdc,False
+CIW V5 Database Design Specialists,Lightcast,ciw v5 database design specialists,False
+Client Server Technologies,Lightcast,client server technologies,False
+Clustered Index,Lightcast,clustered index,False
+Column-Oriented DBMS,Lightcast,columnoriented dbms,False
+Core Architecture Data Model,Lightcast,core architecture data model,False
+Core Dump,Lightcast,core dump,False
+Corel Paradox,Lightcast,corel paradox,False
+Cortex M3,Lightcast,cortex m3,False
+CrateDB,Lightcast,cratedb,False
+Create Read Update and Delete (CRUD),Lightcast,create read update and delete crud,False
+Dacpac,Lightcast,dacpac,False
+Data Access,Lightcast,data access,False
+Data Availability,Lightcast,data availability,False
+Data Lineage,Lightcast,data lineage,False
+Data Partitioning,Lightcast,data partitioning,False
+Data Strategy,Lightcast,data strategy,False
+Data Vaults,Lightcast,data vaults,False
+Database Abstraction Layer,Lightcast,database abstraction layer,False
+Database Activity Monitoring,Lightcast,database activity monitoring,False
+Database Administration,Lightcast,database administration,False
+Database Architecture,Lightcast,database architecture,False
+Database Availability Group,Lightcast,database availability group,False
+Database Cloning,Lightcast,database cloning,False
+Database Cluster,Lightcast,database cluster,False
+Database Comparison,Lightcast,database comparison,False
+Database Connection,Lightcast,database connection,False
+Database Consistency,Lightcast,database consistency,False
+Database Console Commands (DBCC),Lightcast,database console commands dbcc,False
+Database Consolidation,Lightcast,database consolidation,False
+Database Conversion,Lightcast,database conversion,False
+Database Cursor,Lightcast,database cursor,False
+Database Deployment Management,Lightcast,database deployment management,False
+Database Design,Lightcast,database design,False
+Database Development,Lightcast,database development,False
+Database Directive,Lightcast,database directive,False
+Database Engine Tuning Advisor,Lightcast,database engine tuning advisor,False
+Database Life Cycle Management,Lightcast,database life cycle management,False
+Database Management,Lightcast,database management,False
+DataBase Markup Language,Lightcast,database markup language,False
+Database Modeling,Lightcast,database modeling,False
+Database Normalization,Lightcast,database normalization,False
+Database Partitioning,Lightcast,database partitioning,False
+Database Performance Analyzer,Lightcast,database performance analyzer,False
+Database Permissions,Lightcast,database permissions,False
+Database Programmer's Toolkits,Lightcast,database programmers toolkits,False
+Database Testing,Lightcast,database testing,False
+Database Triggers,Lightcast,database triggers,False
+Database Tuning,Lightcast,database tuning,False
+Database Upgrades,Lightcast,database upgrades,False
+Dataflow Architecture,Lightcast,dataflow architecture,False
+DBAccess,Lightcast,dbaccess,False
+Dbeaver,Lightcast,dbeaver,False
+DbFit,Lightcast,dbfit,False
+dbt (Data Build Tool),Lightcast,dbt data build tool,False
+DbVisualizer,Lightcast,dbvisualizer,False
+Denormalization,Lightcast,denormalization,False
+DeZign For Databases,Lightcast,dezign for databases,False
+Distributed Database Management System (DDBMS),Lightcast,distributed database management system ddbms,False
+Distributed Relational Database Architecture (DRDA),Lightcast,distributed relational database architecture drda,False
+Dynamic Management Views,Lightcast,dynamic management views,False
+Eloquent ORM,Lightcast,eloquent orm,False
+Embarcadero DBArtisan,Lightcast,embarcadero dbartisan,False
+Embarcadero Software,Lightcast,embarcadero software,False
+Entitymanager,Lightcast,entitymanager,False
+Enums,Lightcast,enums,False
+Expdp,Lightcast,expdp,False
+Ezsql,Lightcast,ezsql,False
+FairCom DB,Lightcast,faircom db,False
+Flyway,Lightcast,flyway,False
+Foglight (Database Software),Lightcast,foglight database software,False
+GT.M,Lightcast,gtm,False
+IBM - IMS High Availability Large Database,Lightcast,ibm  ims high availability large database,False
+IBM DB2 DProp,Lightcast,ibm db2 dprop,False
+IBM Informix Dynamic Server,Lightcast,ibm informix dynamic server,False
+Impdp,Lightcast,impdp,False
+Industry Standard Architecture,Lightcast,industry standard architecture,False
+InnoDB,Lightcast,innodb,False
+ISO 9075,Lightcast,iso 9075,False
+IT Architecture Design,Lightcast,it architecture design,False
+JBASE ODBC Connector,Lightcast,jbase odbc connector,False
+LevelDB,Lightcast,leveldb,False
+LIDB,Lightcast,lidb,False
+Litespeed,Lightcast,litespeed,False
+Materialized Query Tables,Lightcast,materialized query tables,False
+MemcacheDB,Lightcast,memcachedb,False
+Merge Replication,Lightcast,merge replication,False
+Microsoft Certified: Azure Database Administrator Associate,Lightcast,microsoft certified azure database administrator associate,False
+Mimer SQL,Lightcast,mimer sql,False
+Mnesia,Lightcast,mnesia,False
+MonetDB,Lightcast,monetdb,False
+MongoEngine,Lightcast,mongoengine,False
+Mongolab,Lightcast,mongolab,False
+Mongorestore,Lightcast,mongorestore,False
+MONyog,Lightcast,monyog,False
+MS-DTSX,Lightcast,msdtsx,False
+Msdb Database,Lightcast,msdb database,False
+Multibinding,Lightcast,multibinding,False
+Multiple Inheritance,Lightcast,multiple inheritance,False
+Multivalued Dependency,Lightcast,multivalued dependency,False
+Multiversion Concurrency Controls,Lightcast,multiversion concurrency controls,False
+MySQL Certified Developer,Lightcast,mysql certified developer,False
+MySQL Workbench,Lightcast,mysql workbench,False
+NameNode,Lightcast,namenode,False
+Navigational Database,Lightcast,navigational database,False
+New Database Manager (NDBM),Lightcast,new database manager ndbm,False
+NewSQL,Lightcast,newsql,False
+NexusDB,Lightcast,nexusdb,False
+NuoDB,Lightcast,nuodb,False
+Object-Oriented Data Model For Database Modeling,Lightcast,objectoriented data model for database modeling,False
+Object-Oriented Database,Lightcast,objectoriented database,False
+Object-Role Modeling,Lightcast,objectrole modeling,False
+Objectivity/DB,Lightcast,objectivitydb,False
+Open ModelSphere,Lightcast,open modelsphere,False
+OpenBase,Lightcast,openbase,False
+Oracle Administration,Lightcast,oracle administration,False
+Oracle Advanced Security,Lightcast,oracle advanced security,False
+Oracle Application Integration Architecture Certification,Lightcast,oracle application integration architecture certification,False
+Oracle Applications DBA,Lightcast,oracle applications dba,False
+Oracle Audit Vault,Lightcast,oracle audit vault,False
+Oracle Autonomous Database Cloud Certification,Lightcast,oracle autonomous database cloud certification,False
+Oracle Cdc,Lightcast,oracle cdc,False
+Oracle Certification,Lightcast,oracle certification,False
+Oracle Certified Associate Database Administrator,Lightcast,oracle certified associate database administrator,False
+Oracle Certified Expert (OCE),Lightcast,oracle certified expert oce,False
+Oracle Certified Professional Database Administrator,Lightcast,oracle certified professional database administrator,False
+Oracle Cloud Database Migration And Integration Certification,Lightcast,oracle cloud database migration and integration certification,False
+Oracle Cloud Database Services Certification,Lightcast,oracle cloud database services certification,False
+Oracle Data Guard,Lightcast,oracle data guard,False
+Oracle Database 11g Administrator Certified Associate,Lightcast,oracle database 11g administrator certified associate,False
+Oracle Database Administration (DBA),Lightcast,oracle database administration dba,False
+Oracle Database Appliance,Lightcast,oracle database appliance,False
+Oracle Database Architecture,Lightcast,oracle database architecture,False
+Oracle Database Certification,Lightcast,oracle database certification,False
+Oracle Database Programming,Lightcast,oracle database programming,False
+Oracle Database Tuning,Lightcast,oracle database tuning,False
+Oracle Database Vault,Lightcast,oracle database vault,False
+Oracle Engineered Systems,Lightcast,oracle engineered systems,False
+Oracle Enterprise Manager,Lightcast,oracle enterprise manager,False
+Oracle EU Sovereign Cloud,Lightcast,oracle eu sovereign cloud,False
+Oracle Exadata,Lightcast,oracle exadata,False
+Oracle Flashback,Lightcast,oracle flashback,False
+Oracle GoldenGate,Lightcast,oracle goldengate,False
+Oracle Home,Lightcast,oracle home,False
+Oracle MySQL Certification,Lightcast,oracle mysql certification,False
+Oracle Order Management Certification,Lightcast,oracle order management certification,False
+Oracle Planning And Collaboration Certification,Lightcast,oracle planning and collaboration certification,False
+Oracle Rac,Lightcast,oracle rac,False
+Oracle Streams,Lightcast,oracle streams,False
+Oracle Text,Lightcast,oracle text,False
+Oracle WebCenter Certification,Lightcast,oracle webcenter certification,False
+ORMLite,Lightcast,ormlite,False
+Pega Certified Senior System Architect,Lightcast,pega certified senior system architect,False
+PeopleSoft Administration,Lightcast,peoplesoft administration,False
+Peoplesoft Internet Architecture,Lightcast,peoplesoft internet architecture,False
+Pgbouncer,Lightcast,pgbouncer,False
+PHPMyAdmin,Lightcast,phpmyadmin,False
+Physical Schema,Lightcast,physical schema,False
+Psycopg2,Lightcast,psycopg2,False
+QDB,Lightcast,qdb,False
+Query Analyzer,Lightcast,query analyzer,False
+Query Optimization,Lightcast,query optimization,False
+Query Performance,Lightcast,query performance,False
+Query Planning,Lightcast,query planning,False
+Query Tuning,Lightcast,query tuning,False
+Queued Sequential Access Methods,Lightcast,queued sequential access methods,False
+Redo Log,Lightcast,redo log,False
+Referential Integrity,Lightcast,referential integrity,False
+Relational Database Design,Lightcast,relational database design,False
+RoboMongo,Lightcast,robomongo,False
+Rowset,Lightcast,rowset,False
+Salesforce Certified Data Architecture And Management Designer,Lightcast,salesforce certified data architecture and management designer,False
+SAP Sovereign Cloud,Lightcast,sap sovereign cloud,False
+Schemaless,Lightcast,schemaless,False
+Second Normal Form,Lightcast,second normal form,False
+Secondary Indexes,Lightcast,secondary indexes,False
+Sessionfactory,Lightcast,sessionfactory,False
+Shard (Database Architecture),Lightcast,shard database architecture,False
+SharePlex,Lightcast,shareplex,False
+Software AG Certified Adabas Administrator,Lightcast,software ag certified adabas administrator,False
+Sovereign Cloud (Data Security Framework),Lightcast,sovereign cloud data security framework,False
+SQL And Java (SQLJ),Lightcast,sql and java sqlj,False
+Sql Manager,Lightcast,sql manager,False
+Sql Optimization,Lightcast,sql optimization,False
+SQL Server 2005 DBa Certified Professional,Lightcast,sql server 2005 dba certified professional,False
+SQL Server Agent,Lightcast,sql server agent,False
+SQL Server Integration Services (SSIS),Lightcast,sql server integration services ssis,False
+SQL Server Management Studio,Lightcast,sql server management studio,False
+SQL Server Reporting Services,Lightcast,sql server reporting services,False
+SQL Services,Lightcast,sql services,False
+SQL Tuning,Lightcast,sql tuning,False
+SQL/Persistent Stored Modules (SQL/PSM),Lightcast,sqlpersistent stored modules sqlpsm,False
+Sqlanywhere,Lightcast,sqlanywhere,False
+SQLyog,Lightcast,sqlyog,False
+SQSH,Lightcast,sqsh,False
+Ssrs 2012,Lightcast,ssrs 2012,False
+Sybase PowerDesigner,Lightcast,sybase powerdesigner,False
+Sybase RAP,Lightcast,sybase rap,False
+Sysdate,Lightcast,sysdate,False
+Sysdba,Lightcast,sysdba,False
+Third Normal Form,Lightcast,third normal form,False
+TimeXtender,Lightcast,timextender,False
+TKProf,Lightcast,tkprof,False
+Tokumx,Lightcast,tokumx,False
+Transaction Control Language,Lightcast,transaction control language,False
+Transactional Replication,Lightcast,transactional replication,False
+Transbase,Lightcast,transbase,False
+Versant Object Database,Lightcast,versant object database,False
+VoltDB,Lightcast,voltdb,False
+Wiredtiger,Lightcast,wiredtiger,False
+.NET Development,Lightcast,net development,False
+128bit,Lightcast,128bit,False
+12factor,Lightcast,12factor,False
+Abstract Class,Lightcast,abstract class,False
+Abstract Factory Pattern,Lightcast,abstract factory pattern,False
+Abstract Syntax Tree,Lightcast,abstract syntax tree,False
+Acceptance Test-Driven Development,Lightcast,acceptance testdriven development,False
+Access Modifiers,Lightcast,access modifiers,False
+Active Template Library,Lightcast,active template library,False
+Adaptation Kit Upgrade,Lightcast,adaptation kit upgrade,False
+Adapter Pattern,Lightcast,adapter pattern,False
+Advanced Host Controller Interface,Lightcast,advanced host controller interface,False
+Adyen,Lightcast,adyen,False
+Airbyte,Lightcast,airbyte,False
+Akka.net,Lightcast,akkanet,False
+Allegro Common Lisp,Lightcast,allegro common lisp,False
+Android Development Tools (ADT),Lightcast,android development tools adt,False
+Anonymous Types,Lightcast,anonymous types,False
+Anti-Patterns,Lightcast,antipatterns,False
+App Data,Lightcast,app data,False
+Application Controls,Lightcast,application controls,False
+Application Delivery Network,Lightcast,application delivery network,False
+Application Dependency,Lightcast,application dependency,False
+Application Deployment,Lightcast,application deployment,False
+Application Design,Lightcast,application design,False
+Application Development,Lightcast,application development,False
+Application Development Languages,Lightcast,application development languages,False
+Application Environments,Lightcast,application environments,False
+Application Foundation Classes,Lightcast,application foundation classes,False
+Application Frameworks,Lightcast,application frameworks,False
+Application Infrastructure Design,Lightcast,application infrastructure design,False
+Application Lifecycle Management,Lightcast,application lifecycle management,False
+Application Monitoring,Lightcast,application monitoring,False
+Application Notes,Lightcast,application notes,False
+Application Packaging,Lightcast,application packaging,False
+Application Planning,Lightcast,application planning,False
+Application Retirement,Lightcast,application retirement,False
+Application Services,Lightcast,application services,False
+Application Settings,Lightcast,application settings,False
+Application Streaming,Lightcast,application streaming,False
+Application-Specific Information,Lightcast,applicationspecific information,False
+Applications Architecture,Lightcast,applications architecture,False
+Aptana Jaxer,Lightcast,aptana jaxer,False
+Architectural Patterns,Lightcast,architectural patterns,False
+Architecturally Significant Requirements,Lightcast,architecturally significant requirements,False
+Aspect-Oriented Programming,Lightcast,aspectoriented programming,False
+Aspect-Oriented Software Development,Lightcast,aspectoriented software development,False
+Asset Pipeline,Lightcast,asset pipeline,False
+Async Await Pattern,Lightcast,async await pattern,False
+Automatic Updates,Lightcast,automatic updates,False
+AWS Certified Developer,Lightcast,aws certified developer,False
+B Method,Lightcast,b method,False
+Back End (Software Engineering),Lightcast,back end software engineering,False
+Background Application,Lightcast,background application,False
+Backwards Compatibility,Lightcast,backwards compatibility,False
+Block Element Modifier,Lightcast,block element modifier,False
+Booch Method,Lightcast,booch method,False
+Borland Together,Lightcast,borland together,False
+Breakpoint,Lightcast,breakpoint,False
+Bridge Pattern,Lightcast,bridge pattern,False
+Broker Pattern,Lightcast,broker pattern,False
+Build Pipeline,Lightcast,build pipeline,False
+Build Process,Lightcast,build process,False
+Builder Pattern,Lightcast,builder pattern,False
+C166 Family,Lightcast,c166 family,False
+Careware,Lightcast,careware,False
+Certified Application Developer,Lightcast,certified application developer,False
+Certified Ruby Programmer,Lightcast,certified ruby programmer,False
+Certified Scrum Developer (CSD),Lightcast,certified scrum developer csd,False
+Certified Software Development Professional,Lightcast,certified software development professional,False
+Character Encoding,Lightcast,character encoding,False
+Ci Server,Lightcast,ci server,False
+CI/CD,Lightcast,cicd,False
+Class Diagram,Lightcast,class diagram,False
+Class Hierarchy,Lightcast,class hierarchy,False
+Client-Server Application Development,Lightcast,clientserver application development,False
+Cloud-Native Computing Foundation (CNCF) Standards,Lightcast,cloudnative computing foundation cncf standards,False
+Cluster Development,Lightcast,cluster development,False
+Cluster Mode,Lightcast,cluster mode,False
+Code Audit,Lightcast,code audit,False
+Code Comments,Lightcast,code comments,False
+Code Complexity,Lightcast,code complexity,False
+Code Conversion,Lightcast,code conversion,False
+Code Formatting,Lightcast,code formatting,False
+Code Generation,Lightcast,code generation,False
+Code Migration,Lightcast,code migration,False
+Code Refactoring,Lightcast,code refactoring,False
+Code Reuse,Lightcast,code reuse,False
+Code Sharing,Lightcast,code sharing,False
+Code Snippets,Lightcast,code snippets,False
+Code Structure,Lightcast,code structure,False
+Codebase,Lightcast,codebase,False
+Coding Standards and Governance,Lightcast,coding standards and governance,False
+Comet Programming,Lightcast,comet programming,False
+Command Pattern,Lightcast,command pattern,False
+Command Query Separation,Lightcast,command query separation,False
+Command-Query Responsibility Segregation (Software Development),Lightcast,commandquery responsibility segregation software development,False
+Commercial Off-the-Shelf,Lightcast,commercial offtheshelf,False
+Common Technical Document,Lightcast,common technical document,False
+Compact Framework,Lightcast,compact framework,False
+Competitive Programming,Lightcast,competitive programming,False
+Compiler Construction,Lightcast,compiler construction,False
+Compiler Design,Lightcast,compiler design,False
+Compiler Development,Lightcast,compiler development,False
+Compilers,Lightcast,compilers,False
+Component Services,Lightcast,component services,False
+Component-Oriented Development Software,Lightcast,componentoriented development software,False
+Composite Application,Lightcast,composite application,False
+Composite Patterns (Software Design Patterns),Lightcast,composite patterns software design patterns,False
+Computation Tree Logic,Lightcast,computation tree logic,False
+Computer-Aided Software Engineering,Lightcast,computeraided software engineering,False
+Concurrency Controls,Lightcast,concurrency controls,False
+Concurrency Pattern,Lightcast,concurrency pattern,False
+Conditional Compilation,Lightcast,conditional compilation,False
+Connection Pooling,Lightcast,connection pooling,False
+Console Applications,Lightcast,console applications,False
+Container-Managed Persistence,Lightcast,containermanaged persistence,False
+Continuous Delivery,Lightcast,continuous delivery,False
+Continuous Deployment,Lightcast,continuous deployment,False
+Continuous Integration,Lightcast,continuous integration,False
+Creational Patterns,Lightcast,creational patterns,False
+Cross Compiling,Lightcast,cross compiling,False
+Cross-Platform Applications,Lightcast,crossplatform applications,False
+Custom Attributes,Lightcast,custom attributes,False
+Custom Backend,Lightcast,custom backend,False
+Custom Component,Lightcast,custom component,False
+Custom Fields,Lightcast,custom fields,False
+Custom Function,Lightcast,custom function,False
+Custom Object,Lightcast,custom object,False
+Custom Software,Lightcast,custom software,False
+Custom Widgets,Lightcast,custom widgets,False
+Cyclomatic Complexity,Lightcast,cyclomatic complexity,False
+Data Access Object (DAO) Patterns,Lightcast,data access object dao patterns,False
+Data Binding,Lightcast,data binding,False
+Data Buffer,Lightcast,data buffer,False
+Data Hiding (Encapsulation),Lightcast,data hiding encapsulation,False
+Data Layers,Lightcast,data layers,False
+Data Transfer Object,Lightcast,data transfer object,False
+Data-Oriented Programming,Lightcast,dataoriented programming,False
+Database First,Lightcast,database first,False
+DBG,Lightcast,dbg,False
+Ddd Service,Lightcast,ddd service,False
+Debounce,Lightcast,debounce,False
+Decompiler,Lightcast,decompiler,False
+Delivery Pipelines,Lightcast,delivery pipelines,False
+Dependency Analysis,Lightcast,dependency analysis,False
+Dependency Injection,Lightcast,dependency injection,False
+Dependency Management,Lightcast,dependency management,False
+Deployment Project,Lightcast,deployment project,False
+Deployment Support,Lightcast,deployment support,False
+Design-Driven Development,Lightcast,designdriven development,False
+Development Environment,Lightcast,development environment,False
+Development Testing,Lightcast,development testing,False
+Developmental Testing,Lightcast,developmental testing,False
+Device Compatibility,Lightcast,device compatibility,False
+Device Drivers,Lightcast,device drivers,False
+DevOps Architecture,Lightcast,devops architecture,False
+DevOps Coaching,Lightcast,devops coaching,False
+Digital Architecture,Lightcast,digital architecture,False
+Distributed Development,Lightcast,distributed development,False
+DLL Injection,Lightcast,dll injection,False
+Document Composition,Lightcast,document composition,False
+Documentation Based Coding,Lightcast,documentation based coding,False
+Domain Driven Design,Lightcast,domain driven design,False
+Domain Model,Lightcast,domain model,False
+Dynamic Binding,Lightcast,dynamic binding,False
+Dynamic Loading,Lightcast,dynamic loading,False
+Dynamic Programming,Lightcast,dynamic programming,False
+Environment Variables,Lightcast,environment variables,False
+Event Driven Architecture,Lightcast,event driven architecture,False
+Event-Driven Programming,Lightcast,eventdriven programming,False
+Exception Handling,Lightcast,exception handling,False
+Executable Architecture,Lightcast,executable architecture,False
+Extension Methods,Lightcast,extension methods,False
+Facade Pattern,Lightcast,facade pattern,False
+Front End (Software Engineering),Lightcast,front end software engineering,False
+Front-End Engineering,Lightcast,frontend engineering,False
+Full Stack Development,Lightcast,full stack development,False
+Functional Programming,Lightcast,functional programming,False
+Game Programming,Lightcast,game programming,False
+Garbage Collection (Computer Science),Lightcast,garbage collection computer science,False
+Generic Programming,Lightcast,generic programming,False
+Immutability,Lightcast,immutability,False
+Incremental Build,Lightcast,incremental build,False
+Inversion Of Control,Lightcast,inversion of control,False
+Iterator Patterns,Lightcast,iterator patterns,False
+Jamstack,Lightcast,jamstack,False
+Microservices,Lightcast,microservices,False
+Microservices Development,Lightcast,microservices development,False
+Model View Controller,Lightcast,model view controller,False
+Model View Presenter,Lightcast,model view presenter,False
+Model View ViewModel,Lightcast,model view viewmodel,False
+Model-Driven Development,Lightcast,modeldriven development,False
+Monolithic Software Architecture,Lightcast,monolithic software architecture,False
+Object-Oriented Programming (OOP),Lightcast,objectoriented programming oop,False
+Observability,Lightcast,observability,False
+Observer Patterns,Lightcast,observer patterns,False
+Open Source Development,Lightcast,open source development,False
+Operating System Development,Lightcast,operating system development,False
+Performance Engineering,Lightcast,performance engineering,False
+Profiling (Computer Programming),Lightcast,profiling computer programming,False
+Programming Language Design,Lightcast,programming language design,False
+Progressive Web Apps,Lightcast,progressive web apps,False
+Release Engineering,Lightcast,release engineering,False
+Scalability,Lightcast,scalability,False
+Secure Application Development,Lightcast,secure application development,False
+Software Architecture,Lightcast,software architecture,False
+Software Design Patterns,Lightcast,software design patterns,False
+Software Development Life Cycle,Lightcast,software development life cycle,False
+Software Engineering,Lightcast,software engineering,False
+Solid Principles,Lightcast,solid principles,False
+Technical Debt,Lightcast,technical debt,False
+Thread Safety,Lightcast,thread safety,False
+Time Complexity,Lightcast,time complexity,False
+Unit Test-Driven Development,Lightcast,unit testdriven development,False
+Web Application Development,Lightcast,web application development,False
+Windows Software Development,Lightcast,windows software development,False
+Xamarin.mac,Lightcast,xamarinmac,False
+Yocto Project,Lightcast,yocto project,False
+Abstract Data Types,Lightcast,abstract data types,False
+Abstraction Layers,Lightcast,abstraction layers,False
+Abstractions,Lightcast,abstractions,False
+Advanced RISC Computing,Lightcast,advanced risc computing,False
+Algorithm Analysis,Lightcast,algorithm analysis,False
+Algorithm Design,Lightcast,algorithm design,False
+American Standard Code For Information Interchange (ASCII),Lightcast,american standard code for information interchange ascii,False
+Apple Qmaster,Lightcast,apple qmaster,False
+ARM Architecture,Lightcast,arm architecture,False
+Associate Computing Professional,Lightcast,associate computing professional,False
+Automata Theory,Lightcast,automata theory,False
+Automated Information Systems,Lightcast,automated information systems,False
+Automated Reasoning,Lightcast,automated reasoning,False
+Automated Theorem Proving,Lightcast,automated theorem proving,False
+Automation,Lightcast,automation,False
+Autonomic Computing,Lightcast,autonomic computing,False
+AVL Tree,Lightcast,avl tree,False
+Bare Metal,Lightcast,bare metal,False
+Binary Codes,Lightcast,binary codes,False
+Binary Search Algorithms,Lightcast,binary search algorithms,False
+Binary Search Trees,Lightcast,binary search trees,False
+Binary Space Partitioning,Lightcast,binary space partitioning,False
+Binary Systems,Lightcast,binary systems,False
+Binary Trees,Lightcast,binary trees,False
+Binary-Coded Decimal,Lightcast,binarycoded decimal,False
+Blobs,Lightcast,blobs,False
+Boolean Expression,Lightcast,boolean expression,False
+Boolean Search,Lightcast,boolean search,False
+Bootstrapping,Lightcast,bootstrapping,False
+Business Logic,Lightcast,business logic,False
+Catechist Certification,Lightcast,catechist certification,False
+Central Process Scheduling,Lightcast,central process scheduling,False
+Certified Computer Examiner,Lightcast,certified computer examiner,False
+Certified Computer Programmer,Lightcast,certified computer programmer,False
+Certified Computing Professional,Lightcast,certified computing professional,False
+Certified Programming,Lightcast,certified programming,False
+Clash Detection,Lightcast,clash detection,False
+Coding Theory,Lightcast,coding theory,False
+Collision Detection,Lightcast,collision detection,False
+Compiler Theories,Lightcast,compiler theories,False
+Complexity Theory,Lightcast,complexity theory,False
+CompTIA A+ CE,Lightcast,comptia a ce,False
+CompTIA Convergence+,Lightcast,comptia convergence,False
+CompTIA Project+,Lightcast,comptia project,False
+Computability Theories,Lightcast,computability theories,False
+Computational Complexity Theories,Lightcast,computational complexity theories,False
+Computational Logic,Lightcast,computational logic,False
+Computer Architecture,Lightcast,computer architecture,False
+Computer Clusters,Lightcast,computer clusters,False
+Computer Systems,Lightcast,computer systems,False
+Computing Platforms,Lightcast,computing platforms,False
+Conditional Statements,Lightcast,conditional statements,False
+Continuous Computing,Lightcast,continuous computing,False
+Control Tables,Lightcast,control tables,False
+Cryptanalysis,Lightcast,cryptanalysis,False
+Cyberinfrastructure,Lightcast,cyberinfrastructure,False
+Data Architecture,Lightcast,data architecture,False
+Data Centers,Lightcast,data centers,False
+Data Compression,Lightcast,data compression,False
+Data Encoding,Lightcast,data encoding,False
+Data Flow Diagram,Lightcast,data flow diagram,False
+Data Fundamentals,Lightcast,data fundamentals,False
+Data Fusion,Lightcast,data fusion,False
+Data Interfaces,Lightcast,data interfaces,False
+Data Pipeline Management,Lightcast,data pipeline management,False
+Data Pipelines,Lightcast,data pipelines,False
+Data Structures,Lightcast,data structures,False
+Database Programming,Lightcast,database programming,False
+Database Theory,Lightcast,database theory,False
+Decision Tables,Lightcast,decision tables,False
+Deserialization,Lightcast,deserialization,False
+Desktop Environments,Lightcast,desktop environments,False
+Digital Acumen,Lightcast,digital acumen,False
+Discrete Systems,Lightcast,discrete systems,False
+Disk Io,Lightcast,disk io,False
+Dynamic Infrastructure,Lightcast,dynamic infrastructure,False
+Eigenvalues And Eigenvectors,Lightcast,eigenvalues and eigenvectors,False
+Embedded Software,Lightcast,embedded software,False
+Encodings,Lightcast,encodings,False
+Event Bus,Lightcast,event bus,False
+Evolutionary Algorithm,Lightcast,evolutionary algorithm,False
+EXEC 2,Lightcast,exec 2,False
+Execution Time,Lightcast,execution time,False
+Existential Quantification,Lightcast,existential quantification,False
+File I/O,Lightcast,file io,False
+File Structure,Lightcast,file structure,False
+Floating Point Algorithm,Lightcast,floating point algorithm,False
+Formal Methods,Lightcast,formal methods,False
+Formal Verification,Lightcast,formal verification,False
+Fuzzy Logic,Lightcast,fuzzy logic,False
+Global Information Systems,Lightcast,global information systems,False
+Gray Code,Lightcast,gray code,False
+Hardware Abstraction,Lightcast,hardware abstraction,False
+High Performance Computing,Lightcast,high performance computing,False
+High Performance Embedded Computing,Lightcast,high performance embedded computing,False
+Indexing,Lightcast,indexing,False
+Information Processor,Lightcast,information processor,False
+Information Retrieval,Lightcast,information retrieval,False
+Information Systems,Lightcast,information systems,False
+Information Technology Architecture,Lightcast,information technology architecture,False
+Information Theory,Lightcast,information theory,False
+Input/Output,Lightcast,inputoutput,False
+Interactive Computing,Lightcast,interactive computing,False
+Inverted Index,Lightcast,inverted index,False
+IT Infrastructure,Lightcast,it infrastructure,False
+JPEG 2000,Lightcast,jpeg 2000,False
+Linked Lists,Lightcast,linked lists,False
+Logical Equivalence,Lightcast,logical equivalence,False
+Loop Unrolling,Lightcast,loop unrolling,False
+Loose Coupling,Lightcast,loose coupling,False
+Machine Code,Lightcast,machine code,False
+Machine-Generated Data,Lightcast,machinegenerated data,False
+Master Theorem,Lightcast,master theorem,False
+Memory Management,Lightcast,memory management,False
+Message Passing Interface,Lightcast,message passing interface,False
+MIPS Architecture,Lightcast,mips architecture,False
+Multiple Instruction Single Data (MISD),Lightcast,multiple instruction single data misd,False
+Multiprocessing,Lightcast,multiprocessing,False
+Multithreading,Lightcast,multithreading,False
+Mutual Exclusion (Mutex),Lightcast,mutual exclusion mutex,False
+Network Infrastructure,Lightcast,network infrastructure,False
+Network Science,Lightcast,network science,False
+Network Theory,Lightcast,network theory,False
+Nvidia CUDA,Lightcast,nvidia cuda,False
+Object-Relational Mapping,Lightcast,objectrelational mapping,False
+Octree,Lightcast,octree,False
+Opcodes,Lightcast,opcodes,False
+Path Finding,Lightcast,path finding,False
+Pattern Matching,Lightcast,pattern matching,False
+Physical Computing,Lightcast,physical computing,False
+Programming Concepts,Lightcast,programming concepts,False
+Programming Language Theory,Lightcast,programming language theory,False
+Prototype (Computer Science),Lightcast,prototype computer science,False
+Pseudocode,Lightcast,pseudocode,False
+Read Code,Lightcast,read code,False
+Regular Expressions,Lightcast,regular expressions,False
+Remote Computing,Lightcast,remote computing,False
+Reversed Compound Agent Theorem,Lightcast,reversed compound agent theorem,False
+Rule-Based Systems,Lightcast,rulebased systems,False
+Script Task,Lightcast,script task,False
+Search Algorithms,Lightcast,search algorithms,False
+Self Service Technologies,Lightcast,self service technologies,False
+Semantic Web,Lightcast,semantic web,False
+Serialization,Lightcast,serialization,False
+Session (Computer Science),Lightcast,session computer science,False
+Signal Handling,Lightcast,signal handling,False
+SIMD,Lightcast,simd,False
+Sleeping Barber Problem,Lightcast,sleeping barber problem,False
+Small Computer System Interface (SCSI),Lightcast,small computer system interface scsi,False
+Social Computing,Lightcast,social computing,False
+Software Coding,Lightcast,software coding,False
+Software Systems,Lightcast,software systems,False
+State Diagram,Lightcast,state diagram,False
+Stored Procedure,Lightcast,stored procedure,False
+Subroutine,Lightcast,subroutine,False
+Substrings,Lightcast,substrings,False
+Symbolic Link,Lightcast,symbolic link,False
+System Call,Lightcast,system call,False
+System Software,Lightcast,system software,False
+Technical Analysis,Lightcast,technical analysis,False
+Technical Analysis Software,Lightcast,technical analysis software,False
+Text Files,Lightcast,text files,False
+Text Manipulation,Lightcast,text manipulation,False
+Tokenization,Lightcast,tokenization,False
+Topology,Lightcast,topology,False
+Transaction Processing (Computing),Lightcast,transaction processing computing,False
+Unmarshalling,Lightcast,unmarshalling,False
+User Objects,Lightcast,user objects,False
+Virtual Memory,Lightcast,virtual memory,False
+Ansible Playbook,Lightcast,ansible playbook,False
+Ansible Tower,Lightcast,ansible tower,False
+AnthillPro,Lightcast,anthillpro,False
+Apache Ant,Lightcast,apache ant,False
+Apache Ivy,Lightcast,apache ivy,False
+Apple Automator (OS X),Lightcast,apple automator os x,False
+Application Release Automation,Lightcast,application release automation,False
+Appveyor,Lightcast,appveyor,False
+AppWorx,Lightcast,appworx,False
+ArchestrA,Lightcast,archestra,False
+Arexx,Lightcast,arexx,False
+Atlassian Bamboo,Lightcast,atlassian bamboo,False
+Audio Computer-Assisted Self-Administered Interview,Lightcast,audio computerassisted selfadministered interview,False
+Auto Build,Lightcast,auto build,False
+Auto Responder,Lightcast,auto responder,False
+Autodeploy,Lightcast,autodeploy,False
+Autofill,Lightcast,autofill,False
+Autolink,Lightcast,autolink,False
+Automake,Lightcast,automake,False
+Automated Business Design,Lightcast,automated business design,False
+Automated Deep Operations Coordination Systems,Lightcast,automated deep operations coordination systems,False
+Automatic Data Processing Equipment,Lightcast,automatic data processing equipment,False
+Automatic License Verification Systems,Lightcast,automatic license verification systems,False
+Automation Anywhere (RPA Software),Lightcast,automation anywhere rpa software,False
+Automatix,Lightcast,automatix,False
+AutoRun,Lightcast,autorun,False
+Autotask PSA,Lightcast,autotask psa,False
+AWS Devops,Lightcast,aws devops,False
+AWS Systems Manager,Lightcast,aws systems manager,False
+Batch Message Processing,Lightcast,batch message processing,False
+Batch Processing,Lightcast,batch processing,False
+Bazel,Lightcast,bazel,False
+BluePrism (RPA Software),Lightcast,blueprism rpa software,False
+Build Automation,Lightcast,build automation,False
+Build Tools,Lightcast,build tools,False
+Buildbot,Lightcast,buildbot,False
+Buildpack,Lightcast,buildpack,False
+CA Workload Automation Ae,Lightcast,ca workload automation ae,False
+Camunda,Lightcast,camunda,False
+Certified Automation Professional,Lightcast,certified automation professional,False
+ChatOps,Lightcast,chatops,False
+Cisco Intersight,Lightcast,cisco intersight,False
+Cisco UCS Director,Lightcast,cisco ucs director,False
+Cisco Unified IP Interactive Voice Response,Lightcast,cisco unified ip interactive voice response,False
+Cloud Automation,Lightcast,cloud automation,False
+CloudBees CD/RO,Lightcast,cloudbees cdro,False
+CMake,Lightcast,cmake,False
+Computer Automated Measurement And Controls,Lightcast,computer automated measurement and controls,False
+Computer-Assisted Telephone Interviewing,Lightcast,computerassisted telephone interviewing,False
+Control-M (Batch Scheduling Software),Lightcast,controlm batch scheduling software,False
+Crestron Certified Programmer,Lightcast,crestron certified programmer,False
+CruiseControl (Software),Lightcast,cruisecontrol software,False
+Daifuku,Lightcast,daifuku,False
+DevOps Engineering,Lightcast,devops engineering,False
+DevOps Toolchain,Lightcast,devops toolchain,False
+Document Process Automation,Lightcast,document process automation,False
+Drawloop (Software),Lightcast,drawloop software,False
+File Watcher,Lightcast,file watcher,False
+Flux CD,Lightcast,flux cd,False
+GitOps,Lightcast,gitops,False
+GNU Build Systems,Lightcast,gnu build systems,False
+Gnu Make,Lightcast,gnu make,False
+Google IT Automation Certificate,Lightcast,google it automation certificate,False
+Google Kubernetes Engine (GKE),Lightcast,google kubernetes engine gke,False
+Gradle,Lightcast,gradle,False
+Harpoons,Lightcast,harpoons,False
+HashiCorp Nomad,Lightcast,hashicorp nomad,False
+Helm (Software),Lightcast,helm software,False
+Hyperautomation,Lightcast,hyperautomation,False
+Ifttt,Lightcast,ifttt,False
+Infrastructure Automation,Lightcast,infrastructure automation,False
+Jamf Certification,Lightcast,jamf certification,False
+Job/Batch Scheduling,Lightcast,jobbatch scheduling,False
+Kubernetes,Lightcast,kubernetes,False
+Machine Instruction,Lightcast,machine instruction,False
+Make.com,Lightcast,makecom,False
+Micro Focus Client Automation,Lightcast,micro focus client automation,False
+Microsoft Power Automate,Lightcast,microsoft power automate,False
+Microsoft Speech Server,Lightcast,microsoft speech server,False
+MSBuild,Lightcast,msbuild,False
+Network Automation,Lightcast,network automation,False
+Nutanix Calm,Lightcast,nutanix calm,False
+OLE Automation,Lightcast,ole automation,False
+OLE For Process Control,Lightcast,ole for process control,False
+OpenWFE,Lightcast,openwfe,False
+Oracle Workflow,Lightcast,oracle workflow,False
+Package Management Systems,Lightcast,package management systems,False
+Patch Management Software,Lightcast,patch management software,False
+Pega Robotics Software,Lightcast,pega robotics software,False
+Phing,Lightcast,phing,False
+Poltergeist,Lightcast,poltergeist,False
+Product Automation,Lightcast,product automation,False
+Quickbuild,Lightcast,quickbuild,False
+Rancher (Software),Lightcast,rancher software,False
+Robotic Automation Software,Lightcast,robotic automation software,False
+Robotic Process Automation,Lightcast,robotic process automation,False
+Salt Stack,Lightcast,salt stack,False
+SAP Business Workflow,Lightcast,sap business workflow,False
+SCons,Lightcast,scons,False
+Semantic Web Rule Language,Lightcast,semantic web rule language,False
+Server Automation,Lightcast,server automation,False
+Slackbot,Lightcast,slackbot,False
+Slurm (Batch Scheduling Software),Lightcast,slurm batch scheduling software,False
+Snap One,Lightcast,snap one,False
+Spinnaker,Lightcast,spinnaker,False
+Suitescript,Lightcast,suitescript,False
+Supernova (Software),Lightcast,supernova software,False
+Teamcity,Lightcast,teamcity,False
+TeleForm,Lightcast,teleform,False
+Theforeman,Lightcast,theforeman,False
+Tivoli Service Automation Management,Lightcast,tivoli service automation management,False
+Travis Ci,Lightcast,travis ci,False
+TrueSight Automation for Servers,Lightcast,truesight automation for servers,False
+UiPath (RPA Software),Lightcast,uipath rpa software,False
+Urllib,Lightcast,urllib,False
+VCarve Pro,Lightcast,vcarve pro,False
+VisualCron,Lightcast,visualcron,False
+VMware Aria Automation,Lightcast,vmware aria automation,False
+VMware Aria Automation Orchestrator,Lightcast,vmware aria automation orchestrator,False
+VMware vCloud Automation Center,Lightcast,vmware vcloud automation center,False
+VMware VRealize Orchestrator,Lightcast,vmware vrealize orchestrator,False
+WinAutomation,Lightcast,winautomation,False
+Winshuttle (RPA Software),Lightcast,winshuttle rpa software,False
+WorkFusion,Lightcast,workfusion,False
+Xcelerator,Lightcast,xcelerator,False
+XLDeploy,Lightcast,xldeploy,False
+ZENworks Configuration Management,Lightcast,zenworks configuration management,False
+Zephyr,Lightcast,zephyr,False
+Advanced Interactive Multidimensional Modeling System (AIMMS),Lightcast,advanced interactive multidimensional modeling system aimms,False
+Agent-Based Model,Lightcast,agentbased model,False
+Aggregate Functions,Lightcast,aggregate functions,False
+Anaconda (Software),Lightcast,anaconda software,False
+Apache Airflow,Lightcast,apache airflow,False
+Apache Flink,Lightcast,apache flink,False
+Apache Hadoop,Lightcast,apache hadoop,False
+Apache MADlib,Lightcast,apache madlib,False
+Apache NiFi,Lightcast,apache nifi,False
+Apache Oozie,Lightcast,apache oozie,False
+Apache Pig,Lightcast,apache pig,False
+Apache Samza,Lightcast,apache samza,False
+Apache Spark,Lightcast,apache spark,False
+Apache Storm,Lightcast,apache storm,False
+Apache Yarn,Lightcast,apache yarn,False
+Apache Zeppelin,Lightcast,apache zeppelin,False
+Approximate String Matching,Lightcast,approximate string matching,False
+AtScale (Software),Lightcast,atscale software,False
+Autoregressive Model,Lightcast,autoregressive model,False
+AWS Elastic MapReduce (EMR),Lightcast,aws elastic mapreduce emr,False
+Azkaban,Lightcast,azkaban,False
+Azure Data Explorer (Kusto),Lightcast,azure data explorer kusto,False
+Big Data,Lightcast,big data,False
+Biginsights,Lightcast,biginsights,False
+Binary Data,Lightcast,binary data,False
+Bloom Filter,Lightcast,bloom filter,False
+Business Intelligence Data Modeling,Lightcast,business intelligence data modeling,False
+Causal Inference,Lightcast,causal inference,False
+CHi-Squared Automatic Interaction Detection (CHAID),Lightcast,chisquared automatic interaction detection chaid,False
+Choice Modeling,Lightcast,choice modeling,False
+Cloudera Data Platform (CDP),Lightcast,cloudera data platform cdp,False
+Complex Adaptive Systems,Lightcast,complex adaptive systems,False
+Conceptual Data Modeling,Lightcast,conceptual data modeling,False
+Cross-Industry Standard Process for Data Mining (CRISP-DM),Lightcast,crossindustry standard process for data mining crispdm,False
+Data Blending,Lightcast,data blending,False
+Data Cleansing,Lightcast,data cleansing,False
+Data Cube,Lightcast,data cube,False
+Data Definition Language,Lightcast,data definition language,False
+Data Discovery,Lightcast,data discovery,False
+Data Element,Lightcast,data element,False
+Data Infrastructure,Lightcast,data infrastructure,False
+Data Intelligence,Lightcast,data intelligence,False
+Data Literacy,Lightcast,data literacy,False
+Data Manipulation,Lightcast,data manipulation,False
+Data Modeling,Lightcast,data modeling,False
+Data Normalization,Lightcast,data normalization,False
+Data Preprocessing,Lightcast,data preprocessing,False
+Data Profiling,Lightcast,data profiling,False
+Data Reduction,Lightcast,data reduction,False
+Data Reference Model,Lightcast,data reference model,False
+Data Selection,Lightcast,data selection,False
+Data Smoothing,Lightcast,data smoothing,False
+Databricks,Lightcast,databricks,False
+Datamodel,Lightcast,datamodel,False
+DataOps,Lightcast,dataops,False
+Dbscan,Lightcast,dbscan,False
+Decision Models,Lightcast,decision models,False
+Decision Science,Lightcast,decision science,False
+Decision Tree Learning,Lightcast,decision tree learning,False
+Delimited Text,Lightcast,delimited text,False
+Dimensionality Reduction,Lightcast,dimensionality reduction,False
+Directed Acyclic Graph (Directed Graphs),Lightcast,directed acyclic graph directed graphs,False
+Directed Graph,Lightcast,directed graph,False
+Dplyr,Lightcast,dplyr,False
+Ds 5,Lightcast,ds 5,False
+Entity Relationship Models,Lightcast,entity relationship models,False
+Er Diagrams,Lightcast,er diagrams,False
+Erwin (Data Modeling Software),Lightcast,erwin data modeling software,False
+Exponential Smoothing,Lightcast,exponential smoothing,False
+Graph Algorithms,Lightcast,graph algorithms,False
+Graphlab,Lightcast,graphlab,False
+Hardlink,Lightcast,hardlink,False
+Hierarchical Clustering,Lightcast,hierarchical clustering,False
+Human Readable,Lightcast,human readable,False
+Informatics Engineering,Lightcast,informatics engineering,False
+Information Integration,Lightcast,information integration,False
+Integration DEFinition For Information Modeling (IDEF1X),Lightcast,integration definition for information modeling idef1x,False
+Jupyter,Lightcast,jupyter,False
+Jupyter Notebook,Lightcast,jupyter notebook,False
+K-Means Clustering,Lightcast,kmeans clustering,False
+Knowledge Discovery,Lightcast,knowledge discovery,False
+Latent Semantic Indexing,Lightcast,latent semantic indexing,False
+LLBLGen Pro,Lightcast,llblgen pro,False
+MapR (Big Data),Lightcast,mapr big data,False
+MapReduce,Lightcast,mapreduce,False
+Metadata,Lightcast,metadata,False
+Metadata Modeling,Lightcast,metadata modeling,False
+Missing Data,Lightcast,missing data,False
+Netezza,Lightcast,netezza,False
+Ontologies,Lightcast,ontologies,False
+Oracle Big Data,Lightcast,oracle big data,False
+Pandas (Python Package),Lightcast,pandas python package,False
+Pattern Recognition,Lightcast,pattern recognition,False
+Pipeline Pilot,Lightcast,pipeline pilot,False
+Predictive Analytics,Lightcast,predictive analytics,False
+Predictive Analytics Software,Lightcast,predictive analytics software,False
+PySpark,Lightcast,pyspark,False
+R.net,Lightcast,rnet,False
+RapidMiner,Lightcast,rapidminer,False
+Raw Data,Lightcast,raw data,False
+Real Time Data,Lightcast,real time data,False
+Relational Online Analytical Processing (ROLAP),Lightcast,relational online analytical processing rolap,False
+Resource Description Framework (RDF),Lightcast,resource description framework rdf,False
+Rmarkdown,Lightcast,rmarkdown,False
+RStudio,Lightcast,rstudio,False
+Semantic Technology,Lightcast,semantic technology,False
+Semi-Structured Data,Lightcast,semistructured data,False
+Shiny (R Package),Lightcast,shiny r package,False
+Snowflake Schema,Lightcast,snowflake schema,False
+Spark Core,Lightcast,spark core,False
+Spark Dataframes,Lightcast,spark dataframes,False
+Spark Streaming,Lightcast,spark streaming,False
+Sparkr,Lightcast,sparkr,False
+Splunk,Lightcast,splunk,False
+Star Schema,Lightcast,star schema,False
+Statistical Language Acquisition,Lightcast,statistical language acquisition,False
+Table Functions,Lightcast,table functions,False
+Tabular Data,Lightcast,tabular data,False
+Text Extraction,Lightcast,text extraction,False
+Text Processing,Lightcast,text processing,False
+Tidyr,Lightcast,tidyr,False
+Time Series,Lightcast,time series,False
+Time Series Analysis And Forecasting,Lightcast,time series analysis and forecasting,False
+Time Series Modeling,Lightcast,time series modeling,False
+Toad Data Modeler,Lightcast,toad data modeler,False
+Transformation Rules,Lightcast,transformation rules,False
+Unpivot,Lightcast,unpivot,False
+Veeva,Lightcast,veeva,False
+Velocity Engine,Lightcast,velocity engine,False
+Vertica,Lightcast,vertica,False
+VMware Greenplum,Lightcast,vmware greenplum,False
+Web Ontology Language,Lightcast,web ontology language,False
+Window Function,Lightcast,window function,False
+3D Projection,Lightcast,3d projection,False
+3Dvia Composer,Lightcast,3dvia composer,False
+ABC FlowCharter,Lightcast,abc flowcharter,False
+Advanced Function Presentation Data Stream,Lightcast,advanced function presentation data stream,False
+Apache Superset,Lightcast,apache superset,False
+Architecture Flow Diagram,Lightcast,architecture flow diagram,False
+Arrow Diagramming Methods,Lightcast,arrow diagramming methods,False
+Box Plots,Lightcast,box plots,False
+Bubble Chart,Lightcast,bubble chart,False
+Candlestick Chart,Lightcast,candlestick chart,False
+Certified LabVIEW Architect,Lightcast,certified labview architect,False
+Chart Director,Lightcast,chart director,False
+Chart.js (Javascript Library),Lightcast,chartjs javascript library,False
+Choropleth Map,Lightcast,choropleth map,False
+Concept Map,Lightcast,concept map,False
+Conceptual Graph,Lightcast,conceptual graph,False
+Continuous Graph,Lightcast,continuous graph,False
+Control Flow Diagram,Lightcast,control flow diagram,False
+CricketGraph,Lightcast,cricketgraph,False
+Data Analysis And Display (DADiSP),Lightcast,data analysis and display dadisp,False
+Data Center Virtualization,Lightcast,data center virtualization,False
+Data Explorers,Lightcast,data explorers,False
+Data Palette,Lightcast,data palette,False
+Data Presentation,Lightcast,data presentation,False
+Data Storytelling,Lightcast,data storytelling,False
+Data Visualization,Lightcast,data visualization,False
+Database Diagram,Lightcast,database diagram,False
+Datamaps,Lightcast,datamaps,False
+Datawindow,Lightcast,datawindow,False
+Dcast,Lightcast,dcast,False
+Dendrogram,Lightcast,dendrogram,False
+Denodo,Lightcast,denodo,False
+Deployment Diagram,Lightcast,deployment diagram,False
+Design Structure Matrix,Lightcast,design structure matrix,False
+Diagramming Software,Lightcast,diagramming software,False
+Disk Usage Analyzer,Lightcast,disk usage analyzer,False
+Donut Chart,Lightcast,donut chart,False
+DOT (Graph Description Language),Lightcast,dot graph description language,False
+Echarts,Lightcast,echarts,False
+EcoSCOPE,Lightcast,ecoscope,False
+Edraw Max,Lightcast,edraw max,False
+Fusioncharts,Lightcast,fusioncharts,False
+Gchart,Lightcast,gchart,False
+Gephi,Lightcast,gephi,False
+Ggplot2,Lightcast,ggplot2,False
+Gnuplot,Lightcast,gnuplot,False
+Google Data,Lightcast,google data,False
+Google Fusion Tables,Lightcast,google fusion tables,False
+Grafana,Lightcast,grafana,False
+GrapeCity Documents Spread,Lightcast,grapecity documents spread,False
+GraphCalc,Lightcast,graphcalc,False
+Grapher,Lightcast,grapher,False
+Graphic And Intelligence Based Script Technology (GIST),Lightcast,graphic and intelligence based script technology gist,False
+Graphic Organizer,Lightcast,graphic organizer,False
+Graphical Data Display Manager,Lightcast,graphical data display manager,False
+Graphics Layout Engines,Lightcast,graphics layout engines,False
+Graphing,Lightcast,graphing,False
+Graphing Calculator,Lightcast,graphing calculator,False
+Heat Maps,Lightcast,heat maps,False
+Histogram,Lightcast,histogram,False
+Hypercube,Lightcast,hypercube,False
+IBM OpenDX,Lightcast,ibm opendx,False
+IGOR Pro,Lightcast,igor pro,False
+Igraph,Lightcast,igraph,False
+Influence Diagram,Lightcast,influence diagram,False
+Integrated Data Viewer (IDV),Lightcast,integrated data viewer idv,False
+Interaction Overview Diagram,Lightcast,interaction overview diagram,False
+JFreeCharts,Lightcast,jfreecharts,False
+Kibana,Lightcast,kibana,False
+Line Chart,Lightcast,line chart,False
+Line Segment,Lightcast,line segment,False
+Logical Data Models,Lightcast,logical data models,False
+LucidChart,Lightcast,lucidchart,False
+Marching Cubes,Lightcast,marching cubes,False
+Matplotlib (Python Package),Lightcast,matplotlib python package,False
+Mayavi,Lightcast,mayavi,False
+MicroStrategy Desktop,Lightcast,microstrategy desktop,False
+MicroStrategy Visual Insight,Lightcast,microstrategy visual insight,False
+NetworkX,Lightcast,networkx,False
+Nyquist Plot,Lightcast,nyquist plot,False
+ParaView,Lightcast,paraview,False
+Pareto Chart,Lightcast,pareto chart,False
+Pchart,Lightcast,pchart,False
+Pie Charts,Lightcast,pie charts,False
+Piktochart,Lightcast,piktochart,False
+Piper Diagram,Lightcast,piper diagram,False
+Pivot Grid,Lightcast,pivot grid,False
+Plantuml,Lightcast,plantuml,False
+Plotly,Lightcast,plotly,False
+Plotly.js (Javascript Library),Lightcast,plotlyjs javascript library,False
+Prism,Lightcast,prism,False
+Process Flow Diagrams,Lightcast,process flow diagrams,False
+Programmer's Hierarchical Interactive Graphics System (PHIGS),Lightcast,programmers hierarchical interactive graphics system phigs,False
+Pygal,Lightcast,pygal,False
+Pyqtgraph,Lightcast,pyqtgraph,False
+Rcharts,Lightcast,rcharts,False
+Remedy Flashboards,Lightcast,remedy flashboards,False
+RRD4J,Lightcast,rrd4j,False
+RTXC Quadros,Lightcast,rtxc quadros,False
+Run Chart,Lightcast,run chart,False
+Salesforce Certified Tableau CRM & Einstein Discovery Consultant,Lightcast,salesforce certified tableau crm  einstein discovery consultant,False
+Salesforce Datorama,Lightcast,salesforce datorama,False
+SAS Web Report Studio,Lightcast,sas web report studio,False
+Scatter Plots,Lightcast,scatter plots,False
+Scichart,Lightcast,scichart,False
+Scientific Visualization,Lightcast,scientific visualization,False
+Seaborn,Lightcast,seaborn,False
+SigmaPlot,Lightcast,sigmaplot,False
+Spaghetti Plot,Lightcast,spaghetti plot,False
+Sparklines,Lightcast,sparklines,False
+Statistical Graphics,Lightcast,statistical graphics,False
+Strategic Roadmaps,Lightcast,strategic roadmaps,False
+Swivel,Lightcast,swivel,False
+Tecplot,Lightcast,tecplot,False
+Teechart,Lightcast,teechart,False
+Teiid,Lightcast,teiid,False
+TimeMap,Lightcast,timemap,False
+TinkerPlots,Lightcast,tinkerplots,False
+Tree Maps,Lightcast,tree maps,False
+Tree View,Lightcast,tree view,False
+UDig,Lightcast,udig,False
+Venn Diagrams,Lightcast,venn diagrams,False
+Visme (Software),Lightcast,visme software,False
+Visual Mind,Lightcast,visual mind,False
+Vizor.Io,Lightcast,vizorio,False
+VS Code,Lightcast,vs code,False
+XHQ,Lightcast,xhq,False
+Xtable,Lightcast,xtable,False
+Xtrareport,Lightcast,xtrareport,False
+Basic Linear Algebra Subprograms,Lightcast,basic linear algebra subprograms,False
+BGFS Algorithms,Lightcast,bgfs algorithms,False
+C Mathematical Functions (C Standard Library),Lightcast,c mathematical functions c standard library,False
+Comsol Multiphysics,Lightcast,comsol multiphysics,False
+Datediff,Lightcast,datediff,False
+Desmos (Mathematics Software),Lightcast,desmos mathematics software,False
+GeoGebra,Lightcast,geogebra,False
+Geometry Expressions,Lightcast,geometry expressions,False
+GNU MathProg (GNU Project Software),Lightcast,gnu mathprog gnu project software,False
+GNU Octave (GNU Project Software),Lightcast,gnu octave gnu project software,False
+GoldSim,Lightcast,goldsim,False
+Gurobi,Lightcast,gurobi,False
+Hur,Lightcast,hur,False
+IBM ILOG CPLEX Optimization Studio (CPLEX),Lightcast,ibm ilog cplex optimization studio cplex,False
+Intel oneAPI Math Kernel Library (oneMKL),Lightcast,intel oneapi math kernel library onemkl,False
+Ipopt,Lightcast,ipopt,False
+Linear Algebra Package (LAPACK),Lightcast,linear algebra package lapack,False
+Maple (Software),Lightcast,maple software,False
+Mathematical Software,Lightcast,mathematical software,False
+MathType,Lightcast,mathtype,False
+Maxima,Lightcast,maxima,False
+Ncalc,Lightcast,ncalc,False
+NumPy (Python Package),Lightcast,numpy python package,False
+Open Optimization Library,Lightcast,open optimization library,False
+QuantLib,Lightcast,quantlib,False
+Rogue Wave IMSL Numerical Libraries,Lightcast,rogue wave imsl numerical libraries,False
+Symbolic Computation,Lightcast,symbolic computation,False
+Wolfram Mathematica,Lightcast,wolfram mathematica,False
+Abstract Algebra,Lightcast,abstract algebra,False
+Actor Model,Lightcast,actor model,False
+Actuarial Modeling,Lightcast,actuarial modeling,False
+Adjacency Matrix,Lightcast,adjacency matrix,False
+Advanced Logic,Lightcast,advanced logic,False
+Advanced Mathematics,Lightcast,advanced mathematics,False
+Analytic Functions,Lightcast,analytic functions,False
+Analytic Geometry,Lightcast,analytic geometry,False
+Applied Mathematics,Lightcast,applied mathematics,False
+Approximation Algorithms,Lightcast,approximation algorithms,False
+Approximation Theory,Lightcast,approximation theory,False
+Arithmetic,Lightcast,arithmetic,False
+Arity,Lightcast,arity,False
+Axiomatic Systems,Lightcast,axiomatic systems,False
+Azimuth,Lightcast,azimuth,False
+Backtracking,Lightcast,backtracking,False
+Base Conversion,Lightcast,base conversion,False
+Bellman Ford,Lightcast,bellman ford,False
+Bezier,Lightcast,bezier,False
+Big O Notation,Lightcast,big o notation,False
+Binary Mathematics,Lightcast,binary mathematics,False
+Bisection,Lightcast,bisection,False
+Bit Manipulation,Lightcast,bit manipulation,False
+Block Design,Lightcast,block design,False
+Boolean Networks,Lightcast,boolean networks,False
+Boundary Element Method,Lightcast,boundary element method,False
+Boundary Value Problem,Lightcast,boundary value problem,False
+Brownian Bridge,Lightcast,brownian bridge,False
+Business Mathematics,Lightcast,business mathematics,False
+Calculations,Lightcast,calculations,False
+Calculus,Lightcast,calculus,False
+Cardinality,Lightcast,cardinality,False
+Catastrophe Modeling,Lightcast,catastrophe modeling,False
+Centroid,Lightcast,centroid,False
+Chaos Theory,Lightcast,chaos theory,False
+Coefficients,Lightcast,coefficients,False
+Combinatorial Design,Lightcast,combinatorial design,False
+Combinatorial Optimization,Lightcast,combinatorial optimization,False
+Combinatorics,Lightcast,combinatorics,False
+Combinatory Logic,Lightcast,combinatory logic,False
+Computational Geometry,Lightcast,computational geometry,False
+Computational Mathematics,Lightcast,computational mathematics,False
+Computational Modeling,Lightcast,computational modeling,False
+Computational Science And Engineering,Lightcast,computational science and engineering,False
+Conformal Map,Lightcast,conformal map,False
+Conic Sections (Analytic Geometry),Lightcast,conic sections analytic geometry,False
+Conjugate Gradient Method,Lightcast,conjugate gradient method,False
+Connected Components,Lightcast,connected components,False
+Connected Mathematics,Lightcast,connected mathematics,False
+Constrained Optimization,Lightcast,constrained optimization,False
+Constraint Logic Programming,Lightcast,constraint logic programming,False
+Continuous-Time Markov Chain,Lightcast,continuoustime markov chain,False
+Control Theories,Lightcast,control theories,False
+Control Variates,Lightcast,control variates,False
+Convex Optimization,Lightcast,convex optimization,False
+Coordinate Systems,Lightcast,coordinate systems,False
+Cosine Similarity,Lightcast,cosine similarity,False
+Descriptive Geometry,Lightcast,descriptive geometry,False
+Deterministic Methods,Lightcast,deterministic methods,False
+Developmental Mathematics,Lightcast,developmental mathematics,False
+Differential Calculus,Lightcast,differential calculus,False
+Differential Equations,Lightcast,differential equations,False
+Differential Evolution,Lightcast,differential evolution,False
+Differential Geometry,Lightcast,differential geometry,False
+Differentials,Lightcast,differentials,False
+Dimensional Analysis,Lightcast,dimensional analysis,False
+Discount Calculation,Lightcast,discount calculation,False
+Discrete Mathematics,Lightcast,discrete mathematics,False
+Discrete Optimization,Lightcast,discrete optimization,False
+Discretization,Lightcast,discretization,False
+Distribution Theory,Lightcast,distribution theory,False
+Dot Product,Lightcast,dot product,False
+Dynamical Systems,Lightcast,dynamical systems,False
+Edit Distance,Lightcast,edit distance,False
+Elementary Function,Lightcast,elementary function,False
+Elementary Matrix (Linear Algebra),Lightcast,elementary matrix linear algebra,False
+Ellipse,Lightcast,ellipse,False
+Equations,Lightcast,equations,False
+Euclidean Distance,Lightcast,euclidean distance,False
+Euclidean Geometry,Lightcast,euclidean geometry,False
+Euler Bernoulli Beam Theory,Lightcast,euler bernoulli beam theory,False
+Extended Kalman Filter,Lightcast,extended kalman filter,False
+Factorials,Lightcast,factorials,False
+Fast Multipole Methods,Lightcast,fast multipole methods,False
+Finite Automata,Lightcast,finite automata,False
+Finite Difference,Lightcast,finite difference,False
+Finite Field,Lightcast,finite field,False
+Finite State Machine,Lightcast,finite state machine,False
+Floyd Warshall,Lightcast,floyd warshall,False
+Flux Balance Analysis,Lightcast,flux balance analysis,False
+Fourier Analysis,Lightcast,fourier analysis,False
+Fourier Transform,Lightcast,fourier transform,False
+Fractal Geometry,Lightcast,fractal geometry,False
+Full State Feedback,Lightcast,full state feedback,False
+Functional Analysis,Lightcast,functional analysis,False
+General Algebraic Modeling Systems,Lightcast,general algebraic modeling systems,False
+General Mathematics,Lightcast,general mathematics,False
+Geometric Modeling,Lightcast,geometric modeling,False
+Graph Theory,Lightcast,graph theory,False
+Greedy Algorithm,Lightcast,greedy algorithm,False
+Groundwater Modeling System (GMS),Lightcast,groundwater modeling system gms,False
+Grover's Algorithm,Lightcast,grovers algorithm,False
+Heath-Jarrow-Morton (HJM) Framework,Lightcast,heathjarrowmorton hjm framework,False
+Hierarchical Linear Models,Lightcast,hierarchical linear models,False
+Hyperbolic Function,Lightcast,hyperbolic function,False
+Independent Component Analysis,Lightcast,independent component analysis,False
+Integer Programming,Lightcast,integer programming,False
+Integral Calculus,Lightcast,integral calculus,False
+Integrated Assessment Modelling,Lightcast,integrated assessment modelling,False
+Integrated DEFinition For Process Description Capture Method (IDEF3),Lightcast,integrated definition for process description capture method idef3,False
+Invex Function,Lightcast,invex function,False
+Isometry,Lightcast,isometry,False
+Ito Calculus,Lightcast,ito calculus,False
+Karnaugh Map,Lightcast,karnaugh map,False
+Lambda Calculus,Lightcast,lambda calculus,False
+Laplace Transform,Lightcast,laplace transform,False
+Lindenmayer System (L-System),Lightcast,lindenmayer system lsystem,False
+Linear Algebra,Lightcast,linear algebra,False
+Linear Equations,Lightcast,linear equations,False
+Linear Function,Lightcast,linear function,False
+Linear Interpolation,Lightcast,linear interpolation,False
+Linear Programming,Lightcast,linear programming,False
+Linear Systems,Lightcast,linear systems,False
+Linearization,Lightcast,linearization,False
+Logarithmic Functions,Lightcast,logarithmic functions,False
+Logic Model Development,Lightcast,logic model development,False
+Logical Matrix,Lightcast,logical matrix,False
+Logit Function,Lightcast,logit function,False
+LU Decomposition,Lightcast,lu decomposition,False
+Map Algebra,Lightcast,map algebra,False
+Markov Chain,Lightcast,markov chain,False
+Markov Chain Monte Carlo,Lightcast,markov chain monte carlo,False
+Markov Model,Lightcast,markov model,False
+Math Endorsement,Lightcast,math endorsement,False
+Math Functions,Lightcast,math functions,False
+Mathematical Analysis,Lightcast,mathematical analysis,False
+Mathematical Biology,Lightcast,mathematical biology,False
+Mathematical Chemistry,Lightcast,mathematical chemistry,False
+MAthematical DYnamic Models (MADYMO),Lightcast,mathematical dynamic models madymo,False
+Mathematical Logic,Lightcast,mathematical logic,False
+Mathematical Modeling,Lightcast,mathematical modeling,False
+Mathematical Optimization,Lightcast,mathematical optimization,False
+Mathematical Programming,Lightcast,mathematical programming,False
+Mathematical Sciences,Lightcast,mathematical sciences,False
+Mathematics Formative Assessment Systems,Lightcast,mathematics formative assessment systems,False
+Matrix Algebra,Lightcast,matrix algebra,False
+Matrix Calculus,Lightcast,matrix calculus,False
+Matrix Factorization,Lightcast,matrix factorization,False
+Matrix Methods (Structural Analysis),Lightcast,matrix methods structural analysis,False
+Matrix Multiplication,Lightcast,matrix multiplication,False
+Maximum Flow Problem,Lightcast,maximum flow problem,False
+Measurement Technique,Lightcast,measurement technique,False
+Metric System,Lightcast,metric system,False
+Model-Based Design,Lightcast,modelbased design,False
+Modulo,Lightcast,modulo,False
+Monte Carlo Methods,Lightcast,monte carlo methods,False
+Multiple Models,Lightcast,multiple models,False
+Multiscale Modeling,Lightcast,multiscale modeling,False
+Multiset,Lightcast,multiset,False
+Multivariable Calculus,Lightcast,multivariable calculus,False
+Nonlinear Dimensionality Reduction,Lightcast,nonlinear dimensionality reduction,False
+Nonlinear Programming,Lightcast,nonlinear programming,False
+Nonparametric Regression,Lightcast,nonparametric regression,False
+Np Complete,Lightcast,np complete,False
+Number Systems,Lightcast,number systems,False
+Number Theory,Lightcast,number theory,False
+Numeral Systems,Lightcast,numeral systems,False
+Numerical Analysis,Lightcast,numerical analysis,False
+Numerical Computing,Lightcast,numerical computing,False
+Numerical Differentiation,Lightcast,numerical differentiation,False
+Numerical Linear Algebra,Lightcast,numerical linear algebra,False
+Operands,Lightcast,operands,False
+Operational Calculus,Lightcast,operational calculus,False
+Optimal Control,Lightcast,optimal control,False
+Ordinary Differential Equations (Differential Calculus),Lightcast,ordinary differential equations differential calculus,False
+Parallel Curve,Lightcast,parallel curve,False
+Parametrix,Lightcast,parametrix,False
+Partial Differential Equation,Lightcast,partial differential equation,False
+Permutation,Lightcast,permutation,False
+Perpendicularity,Lightcast,perpendicularity,False
+Poisson Process,Lightcast,poisson process,False
+Poisson Regression,Lightcast,poisson regression,False
+Polar Coordinates,Lightcast,polar coordinates,False
+Polynomials,Lightcast,polynomials,False
+Population Model,Lightcast,population model,False
+Power Law,Lightcast,power law,False
+Probability,Lightcast,probability,False
+Probability Theories,Lightcast,probability theories,False
+Proof System,Lightcast,proof system,False
+Pseudometric Space,Lightcast,pseudometric space,False
+Push Relabel Maximum Flow Algorithm,Lightcast,push relabel maximum flow algorithm,False
+Pushdown Automaton,Lightcast,pushdown automaton,False
+Quadratic Configuration Interaction (QCI),Lightcast,quadratic configuration interaction qci,False
+Quadratic Equations,Lightcast,quadratic equations,False
+Quadratic Programming,Lightcast,quadratic programming,False
+Quantitative Modeling,Lightcast,quantitative modeling,False
+Quantization,Lightcast,quantization,False
+Quantum Gates,Lightcast,quantum gates,False
+Quantum Phase Estimation (QPE),Lightcast,quantum phase estimation qpe,False
+Quaternions,Lightcast,quaternions,False
+Queueing Theory,Lightcast,queueing theory,False
+Radians,Lightcast,radians,False
+Radix,Lightcast,radix,False
+Random Effects Models,Lightcast,random effects models,False
+Random Variables,Lightcast,random variables,False
+Random Walk,Lightcast,random walk,False
+Receiver Operating Characteristic,Lightcast,receiver operating characteristic,False
+Rectilinear Minimum Spanning Trees,Lightcast,rectilinear minimum spanning trees,False
+Recurrence Relation,Lightcast,recurrence relation,False
+Relational Operator,Lightcast,relational operator,False
+Renewal Theory,Lightcast,renewal theory,False
+Representation Theory,Lightcast,representation theory,False
+Response Models,Lightcast,response models,False
+Risk Modeling,Lightcast,risk modeling,False
+Robust Control,Lightcast,robust control,False
+S9 Fraction,Lightcast,s9 fraction,False
+Sequent,Lightcast,sequent,False
+Shor's Algorithm,Lightcast,shors algorithm,False
+Shortest Path Problem,Lightcast,shortest path problem,False
+Simple Linear Regression,Lightcast,simple linear regression,False
+Simplex Algorithm,Lightcast,simplex algorithm,False
+Simulated Annealing,Lightcast,simulated annealing,False
+Simultaneous Equations Model,Lightcast,simultaneous equations model,False
+Splines,Lightcast,splines,False
+State Space,Lightcast,state space,False
+Stochastic Calculus,Lightcast,stochastic calculus,False
+Stochastic Modeling,Lightcast,stochastic modeling,False
+Stochastic Optimization,Lightcast,stochastic optimization,False
+Stochastic Process,Lightcast,stochastic process,False
+Stochastic Programming,Lightcast,stochastic programming,False
+Stochastic Simulation,Lightcast,stochastic simulation,False
+Stokes Equation,Lightcast,stokes equation,False
+Structural Complexity Theories,Lightcast,structural complexity theories,False
+System Identification,Lightcast,system identification,False
+Systeme Integre De Modelisation MULti-Dimensionelle (SIMUL),Lightcast,systeme integre de modelisation multidimensionelle simul,False
+Systems Of Equations,Lightcast,systems of equations,False
+Systems Of Measurement,Lightcast,systems of measurement,False
+Taylor Series,Lightcast,taylor series,False
+Theory Of Computation,Lightcast,theory of computation,False
+Topology Optimization,Lightcast,topology optimization,False
+Traffic Generation Models,Lightcast,traffic generation models,False
+Truth Table,Lightcast,truth table,False
+Turing Machine,Lightcast,turing machine,False
+Uncertainty Modeling,Lightcast,uncertainty modeling,False
+Uncertainty Quantification,Lightcast,uncertainty quantification,False
+Unit Conversion,Lightcast,unit conversion,False
+Utility Functions,Lightcast,utility functions,False
+Utility Theories,Lightcast,utility theories,False
+Variance Explanation,Lightcast,variance explanation,False
+Variance Reduction,Lightcast,variance reduction,False
+Variational Quantum Eigensolver (VQE),Lightcast,variational quantum eigensolver vqe,False
+Vector Calculus,Lightcast,vector calculus,False
+Vehicle Routing Problem,Lightcast,vehicle routing problem,False
+Z Axis,Lightcast,z axis,False
+Certified Analytics Professional,Lightcast,certified analytics professional,False
+CSSP Analyst,Lightcast,cssp analyst,False
+Discrete Phase-Type Distribution,Lightcast,discrete phasetype distribution,False
+DSPAM,Lightcast,dspam,False
+EPI Info,Lightcast,epi info,False
+GraphPad InStat,Lightcast,graphpad instat,False
+Hmisc,Lightcast,hmisc,False
+JMP (Statistical Software),Lightcast,jmp statistical software,False
+Minitab,Lightcast,minitab,False
+MLwiN,Lightcast,mlwin,False
+Mplus (Structural Equation Modeling),Lightcast,mplus structural equation modeling,False
+NCSS (Statistical Software),Lightcast,ncss statistical software,False
+NLIN Procedure (SAS Software),Lightcast,nlin procedure sas software,False
+NLOGIT,Lightcast,nlogit,False
+Analysis Of Covariance,Lightcast,analysis of covariance,False
+Analysis Of Variance (ANOVA),Lightcast,analysis of variance anova,False
+Applied Statistics,Lightcast,applied statistics,False
+Autoregressive Integrated Moving Average (ARIMA),Lightcast,autoregressive integrated moving average arima,False
+Bayes Classifier,Lightcast,bayes classifier,False
+Bayes Estimator,Lightcast,bayes estimator,False
+Bayesian Inference,Lightcast,bayesian inference,False
+Bayesian Modeling,Lightcast,bayesian modeling,False
+Bayesian Probability,Lightcast,bayesian probability,False
+Bayesian Statistics,Lightcast,bayesian statistics,False
+Box-Jenkins,Lightcast,boxjenkins,False
+Canonical Correlation,Lightcast,canonical correlation,False
+Categorical Data,Lightcast,categorical data,False
+Censored Regression Model,Lightcast,censored regression model,False
+Census Enumeration,Lightcast,census enumeration,False
+Chi-Squared Tests,Lightcast,chisquared tests,False
+Computational Statistics,Lightcast,computational statistics,False
+Confidence Intervals,Lightcast,confidence intervals,False
+Conjoint Analysis,Lightcast,conjoint analysis,False
+Contingency Tables,Lightcast,contingency tables,False
+Copula (Probability Theory),Lightcast,copula probability theory,False
+Correspondence Analysis,Lightcast,correspondence analysis,False
+Decision Theories,Lightcast,decision theories,False
+Defense Independent Pitching Statistics,Lightcast,defense independent pitching statistics,False
+Dependent Variables,Lightcast,dependent variables,False
+Descriptive Statistics,Lightcast,descriptive statistics,False
+Economic Statistics,Lightcast,economic statistics,False
+Elo Rating Systems,Lightcast,elo rating systems,False
+Empirical Process,Lightcast,empirical process,False
+Estimation Theories,Lightcast,estimation theories,False
+Factor Analysis,Lightcast,factor analysis,False
+Frequency Distribution,Lightcast,frequency distribution,False
+Gaussian Process,Lightcast,gaussian process,False
+General Linear Models,Lightcast,general linear models,False
+Generalized AutoRegressive Conditional Heteroskedasticity,Lightcast,generalized autoregressive conditional heteroskedasticity,False
+Generalized Estimating Equation,Lightcast,generalized estimating equation,False
+Generalized Linear Model,Lightcast,generalized linear model,False
+Geostatistics,Lightcast,geostatistics,False
+Importance Sampling,Lightcast,importance sampling,False
+Industrial Statistics,Lightcast,industrial statistics,False
+Instrumental Variable,Lightcast,instrumental variable,False
+Item Response Theory,Lightcast,item response theory,False
+Kalman Filter,Lightcast,kalman filter,False
+Kernel Density Estimation,Lightcast,kernel density estimation,False
+Kolmogorov Smirnov,Lightcast,kolmogorov smirnov,False
+Legal Analytics,Lightcast,legal analytics,False
+Linear Discriminant Analysis,Lightcast,linear discriminant analysis,False
+Linear Model,Lightcast,linear model,False
+Linear Regression,Lightcast,linear regression,False
+Log-Normal Distribution,Lightcast,lognormal distribution,False
+Logistic Regression,Lightcast,logistic regression,False
+Mathematical Statistics,Lightcast,mathematical statistics,False
+Maximum Likelihood,Lightcast,maximum likelihood,False
+Measurement Uncertainty,Lightcast,measurement uncertainty,False
+Median,Lightcast,median,False
+Mixed Model,Lightcast,mixed model,False
+Mixture Model,Lightcast,mixture model,False
+Model Validation,Lightcast,model validation,False
+Moving Average,Lightcast,moving average,False
+Multilevel Model,Lightcast,multilevel model,False
+Multinomial Logistic Regression,Lightcast,multinomial logistic regression,False
+Multiple Linear Regression,Lightcast,multiple linear regression,False
+Multivariate Analysis,Lightcast,multivariate analysis,False
+Multivariate Analysis Of Covariance (MANCOVA),Lightcast,multivariate analysis of covariance mancova,False
+Multivariate Analysis Of Variance,Lightcast,multivariate analysis of variance,False
+Multivariate Statistics,Lightcast,multivariate statistics,False
+Naive Bayes Classifier,Lightcast,naive bayes classifier,False
+Natural Process Variation,Lightcast,natural process variation,False
+Negative Binomial Distribution,Lightcast,negative binomial distribution,False
+Nonlinear Regression,Lightcast,nonlinear regression,False
+Nonparametric Statistics,Lightcast,nonparametric statistics,False
+Normal Distribution,Lightcast,normal distribution,False
+Noticing Hypothesis,Lightcast,noticing hypothesis,False
+Numeric Distribution,Lightcast,numeric distribution,False
+Observational Error,Lightcast,observational error,False
+Ordinary Least Squares (Regression Analysis),Lightcast,ordinary least squares regression analysis,False
+Outliers,Lightcast,outliers,False
+Panel Data,Lightcast,panel data,False
+Parametric Methods,Lightcast,parametric methods,False
+Parametric Statistics,Lightcast,parametric statistics,False
+Pareto Analysis,Lightcast,pareto analysis,False
+Particle Filter,Lightcast,particle filter,False
+Path Analysis,Lightcast,path analysis,False
+Pharmaceutical Statistics,Lightcast,pharmaceutical statistics,False
+Point Estimation,Lightcast,point estimation,False
+Polynomial Regression,Lightcast,polynomial regression,False
+Post-Hoc Analysis,Lightcast,posthoc analysis,False
+Predictive Modeling,Lightcast,predictive modeling,False
+Predictive Statistics,Lightcast,predictive statistics,False
+Principal Component Analysis,Lightcast,principal component analysis,False
+Probabilistic Analysis,Lightcast,probabilistic analysis,False
+Probability And Statistics,Lightcast,probability and statistics,False
+Probability Distribution,Lightcast,probability distribution,False
+Probit,Lightcast,probit,False
+Propagation Of Uncertainty,Lightcast,propagation of uncertainty,False
+Propensity Modeling,Lightcast,propensity modeling,False
+Proportional Hazards Model,Lightcast,proportional hazards model,False
+Quantile,Lightcast,quantile,False
+Quantitative Management Reporting,Lightcast,quantitative management reporting,False
+Randomization,Lightcast,randomization,False
+Regression Analysis,Lightcast,regression analysis,False
+Response Surface Methodology,Lightcast,response surface methodology,False
+Ridge/LASSO Regressions,Lightcast,ridgelasso regressions,False
+Robust Regression,Lightcast,robust regression,False
+Robust Statistics,Lightcast,robust statistics,False
+Root-Mean-Square Deviation,Lightcast,rootmeansquare deviation,False
+Sampling (Statistics),Lightcast,sampling statistics,False
+Sampling Design,Lightcast,sampling design,False
+SAS Certified Associate,Lightcast,sas certified associate,False
+Score Tests,Lightcast,score tests,False
+Sign Tests,Lightcast,sign tests,False
+Simple Random Sample,Lightcast,simple random sample,False
+Social Statistics,Lightcast,social statistics,False
+Softmax,Lightcast,softmax,False
+Standard Deviation,Lightcast,standard deviation,False
+Stat Camera,Lightcast,stat camera,False
+Statistical Classification,Lightcast,statistical classification,False
+Statistical Hypothesis Testing,Lightcast,statistical hypothesis testing,False
+Statistical Indicators,Lightcast,statistical indicators,False
+Statistical Inference,Lightcast,statistical inference,False
+Statistical Learning Theory,Lightcast,statistical learning theory,False
+Statistical Methods,Lightcast,statistical methods,False
+Statistical Physics,Lightcast,statistical physics,False
+Statistical Reporting,Lightcast,statistical reporting,False
+Statistical Survey,Lightcast,statistical survey,False
+Statistical Theory,Lightcast,statistical theory,False
+Statistical Thinking,Lightcast,statistical thinking,False
+Stratified Sampling,Lightcast,stratified sampling,False
+Structural Equation Modeling,Lightcast,structural equation modeling,False
+Survey Sampling,Lightcast,survey sampling,False
+Survival Analysis,Lightcast,survival analysis,False
+Systematic Sampling,Lightcast,systematic sampling,False
+Taguchi Methods,Lightcast,taguchi methods,False
+Test Statistics,Lightcast,test statistics,False
+Topic Modeling,Lightcast,topic modeling,False
+Vital Statistics,Lightcast,vital statistics,False
+Weibull Distribution,Lightcast,weibull distribution,False
+Wilcoxon Signed-Rank Tests,Lightcast,wilcoxon signedrank tests,False
+OBiBa,Lightcast,obiba,False
+Openbugs,Lightcast,openbugs,False
+Oprofile,Lightcast,oprofile,False
+OxMetrics,Lightcast,oxmetrics,False
+Proc Format,Lightcast,proc format,False
+ProStat (Plotting Software),Lightcast,prostat plotting software,False
+PSPP,Lightcast,pspp,False
+Quantmod,Lightcast,quantmod,False
+R-SMLT,Lightcast,rsmlt,False
+RKWard,Lightcast,rkward,False
+Rweka,Lightcast,rweka,False
+S-PLUS Statistical Software,Lightcast,splus statistical software,False
+SAS (Software),Lightcast,sas software,False
+SAS Certified Advanced Analytics Professional,Lightcast,sas certified advanced analytics professional,False
+SAS Certified Associate: Programming Fundamentals,Lightcast,sas certified associate programming fundamentals,False
+SAS Certified Clinical Trials Programmer,Lightcast,sas certified clinical trials programmer,False
+SAS Certified Data Integration Developer,Lightcast,sas certified data integration developer,False
+SAS Certified Data Scientist,Lightcast,sas certified data scientist,False
+SAS Certified Platform Administrator,Lightcast,sas certified platform administrator,False
+SAS Certified Professional,Lightcast,sas certified professional,False
+SAS Certified Professional: Advanced Programming,Lightcast,sas certified professional advanced programming,False
+SAS Certified Professional: AI & Machine Learning,Lightcast,sas certified professional ai  machine learning,False
+SAS Certified Professional: Data Curation,Lightcast,sas certified professional data curation,False
+SAS Certified Specialist,Lightcast,sas certified specialist,False
+SAS Certified Specialist: Administration Of SAS Viya 3.5,Lightcast,sas certified specialist administration of sas viya 35,False
+SAS Certified Specialist: Advanced Predictive Modeling,Lightcast,sas certified specialist advanced predictive modeling,False
+SAS Certified Specialist: Base Programming,Lightcast,sas certified specialist base programming,False
+SAS Certified Specialist: Forecasting And Optimization,Lightcast,sas certified specialist forecasting and optimization,False
+SAS Certified Specialist: Natural Language Processing And Computer Vision,Lightcast,sas certified specialist natural language processing and computer vision,False
+SAS Certified Statistical Business Analyst,Lightcast,sas certified statistical business analyst,False
+SAS Certified Visual Modeler,Lightcast,sas certified visual modeler,False
+SAS Forecast Servers,Lightcast,sas forecast servers,False
+SAS Macros,Lightcast,sas macros,False
+SAS Statistical Analysis,Lightcast,sas statistical analysis,False
+SAS Viya Programming Associate,Lightcast,sas viya programming associate,False
+SAS Viya Programming Specialist,Lightcast,sas viya programming specialist,False
+SAS/STAT,Lightcast,sasstat,False
+SHAZAM,Lightcast,shazam,False
+SigmaXL,Lightcast,sigmaxl,False
+SPC XL,Lightcast,spc xl,False
+SPSS (Statistical Software),Lightcast,spss statistical software,False
+SPSS Statistics Certification,Lightcast,spss statistics certification,False
+Stata,Lightcast,stata,False
+Statgraphics,Lightcast,statgraphics,False
+STATISTICA,Lightcast,statistica,False
+Statistical Analysis Software,Lightcast,statistical analysis software,False
+Statistical Packages,Lightcast,statistical packages,False
+Statistical Programming,Lightcast,statistical programming,False
+Statistical Software,Lightcast,statistical software,False
+StatPlus,Lightcast,statplus,False
+Statsmodels,Lightcast,statsmodels,False
+StatView,Lightcast,statview,False
+StatXact,Lightcast,statxact,False
+SUDAAN (Software),Lightcast,sudaan software,False
+WinBUGS,Lightcast,winbugs,False
+Winpepi,Lightcast,winpepi,False
+XLSTAT,Lightcast,xlstat,False
