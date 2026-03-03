@@ -98,7 +98,7 @@ git clone --recurse-submodules https://github.com/dkavary/ESCOPlus2.0.git
 Or:
 
 ```bash
-git clone https://github.com/yourusername/ESCOPlus2.0.git
+git clone https://github.com/dkavargy/ESCOPlus2.0.git
 cd ESCOPlus2.0
 git submodule update --init --recursive
 ```
